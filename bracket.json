@@ -10,13 +10,13 @@
     {
       "ID": 1,
       "Team1Acronym": "MC",
-      "Team1Score": 0,
+      "Team1Score": null,
       "Team2Acronym": "TTRF",
-      "Team2Score": 0,
+      "Team2Score": null,
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
-      "Current": false,
+      "Current": true,
       "Date": "2023-04-01T01:00:00+01:00",
       "ConditionalMatches": [],
       "Position": {
@@ -54,9 +54,9 @@
     {
       "ID": 5,
       "Team1Acronym": "RH",
-      "Team1Score": 0,
+      "Team1Score": null,
       "Team2Acronym": "COLD",
-      "Team2Score": 0,
+      "Team2Score": null,
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
@@ -76,9 +76,9 @@
     {
       "ID": 8,
       "Team1Acronym": "OGMT",
-      "Team1Score": 0,
+      "Team1Score": null,
       "Team2Acronym": "SR",
-      "Team2Score": 0,
+      "Team2Score": null,
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
@@ -98,9 +98,9 @@
     {
       "ID": 9,
       "Team1Acronym": "LIM",
-      "Team1Score": 0,
+      "Team1Score": null,
       "Team2Acronym": "guh",
-      "Team2Score": 0,
+      "Team2Score": null,
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
@@ -120,9 +120,9 @@
     {
       "ID": 11,
       "Team1Acronym": "IDEA",
-      "Team1Score": 0,
+      "Team1Score": null,
       "Team2Acronym": "Poop",
-      "Team2Score": 0,
+      "Team2Score": null,
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
@@ -142,9 +142,9 @@
     {
       "ID": 13,
       "Team1Acronym": "BLUE",
-      "Team1Score": 0,
+      "Team1Score": null,
       "Team2Acronym": "gobl",
-      "Team2Score": 0,
+      "Team2Score": null,
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
@@ -164,9 +164,9 @@
     {
       "ID": 15,
       "Team1Acronym": "Jalm",
-      "Team1Score": 0,
+      "Team1Score": null,
       "Team2Acronym": "BOUN",
-      "Team2Score": 0,
+      "Team2Score": null,
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
@@ -452,9 +452,9 @@
     {
       "ID": 16,
       "Team1Acronym": "zaza",
-      "Team1Score": 0,
+      "Team1Score": null,
       "Team2Acronym": "plush",
-      "Team2Score": 0,
+      "Team2Score": null,
       "Completed": false,
       "Losers": true,
       "PicksBans": [],
@@ -590,7 +590,7 @@
       "Completed": false,
       "Losers": true,
       "PicksBans": [],
-      "Current": true,
+      "Current": false,
       "Date": "2023-04-01T01:00:00+01:00",
       "ConditionalMatches": [],
       "Position": {
@@ -2371,18 +2371,20 @@
       "SeedingResults": [],
       "Seed": "1",
       "LastYearPlacing": 1,
-      "AverageRank": 3948.0,
+      "AverageRank": 11117.0,
       "Players": [
         {
           "id": 6131258,
           "Username": "-ether-",
           "country_code": "US",
+          "Rank": 3120,
           "CoverUrl": "https://assets.ppy.sh/user-profile-covers/6131258/5424cb1b40998b7fd2aed6a26b5bbc1dacfa637cf767295b659fe736576e6db8.jpeg"
         },
         {
           "id": 8543980,
           "Username": "FluffyEcho",
           "country_code": "CA",
+          "Rank": 14266,
           "CoverUrl": "https://assets.ppy.sh/user-profile-covers/8543980/2a058569647fb09ae5f4e7d3ab778eb35cad11495a7f4b879a64cafb91d79369.jpeg"
         },
         {
@@ -2396,6 +2398,7 @@
           "id": 5584603,
           "Username": "SaIad",
           "country_code": "US",
+          "Rank": 23134,
           "CoverUrl": "https://assets.ppy.sh/user-profile-covers/5584603/76cfc20dd681785642ce90713ff5655cd227cc964258ea63667725a56f5a34c9.jpeg"
         }
       ]
@@ -2407,30 +2410,35 @@
       "SeedingResults": [],
       "Seed": "1",
       "LastYearPlacing": 1,
+      "AverageRank": 10957.0,
       "Players": [
         {
           "id": 694480,
           "Username": "Hakumo Ai",
           "country_code": "CN",
-          "CoverUrl": "https://lazer.ppy.sh/images/headers/profile-covers/c1.jpg"
+          "Rank": 9034,
+          "CoverUrl": "https://osu.ppy.sh/images/headers/profile-covers/c1.jpg"
         },
         {
           "id": 5179557,
           "Username": "Hakumo Shiro",
           "country_code": "CN",
+          "Rank": 9768,
           "CoverUrl": "https://assets.ppy.sh/user-profile-covers/5179557/1240f69986d11d3cc337d88ea86fed12b7a81ae36540477d4f7380731e0d8bcd.jpeg"
         },
         {
           "id": 10500832,
           "Username": "[Crz]xz1z1z",
           "country_code": "CN",
+          "Rank": 20964,
           "CoverUrl": "https://assets.ppy.sh/user-profile-covers/10500832/c6a89ea4c68e6f43c7d295663dc0d05e09c09c193b5502fdaba6e06b3720097f.jpeg"
         },
         {
           "id": 4464845,
           "Username": "Aimseky",
           "country_code": "CN",
-          "CoverUrl": "https://lazer.ppy.sh/images/headers/profile-covers/c6.jpg"
+          "Rank": 4062,
+          "CoverUrl": "https://osu.ppy.sh/images/headers/profile-covers/c6.jpg"
         }
       ]
     },
@@ -2441,12 +2449,13 @@
       "SeedingResults": [],
       "Seed": "1",
       "LastYearPlacing": 1,
-      "AverageRank": 1125.0,
+      "AverageRank": 9748.0,
       "Players": [
         {
           "id": 4801735,
           "Username": "Dragbit 5",
           "country_code": "HK",
+          "Rank": 25987,
           "CoverUrl": "https://assets.ppy.sh/user-profile-covers/4801735/7093a2ed9c41d1e1262f367f5cc48973f681354676dc4eee12ca9bdb0b132d1d.jpeg"
         },
         {
@@ -2460,12 +2469,14 @@
           "id": 18224888,
           "Username": "CLASH OF CLANS",
           "country_code": "HK",
+          "Rank": 3582,
           "CoverUrl": "https://assets.ppy.sh/user-profile-covers/18224888/3fcaf9a17848c9f4ef4195cdf5fcfec61be39169691ae8234aedbce1e45432ee.jpeg"
         },
         {
           "id": 17865200,
           "Username": "-shiina-",
           "country_code": "HK",
+          "Rank": 8298,
           "CoverUrl": "https://assets.ppy.sh/user-profile-covers/17865200/879e4102254f7ca35ddf9ea97581d3987e347de8657bccbb2489f9d0beab5dab.png"
         }
       ]
@@ -2477,7 +2488,7 @@
       "SeedingResults": [],
       "Seed": "1",
       "LastYearPlacing": 1,
-      "AverageRank": 4585.0,
+      "AverageRank": 11643.666666666666,
       "Players": [
         {
           "id": 11129041,
@@ -2490,12 +2501,14 @@
           "id": 13935409,
           "Username": "BioTyC",
           "country_code": "FR",
+          "Rank": 10705,
           "CoverUrl": "https://assets.ppy.sh/user-profile-covers/13935409/24e44fd2d34c1bbf3901964d15c58ef522c3f0b2b1a08891936eb37e5e6055de.jpeg"
         },
         {
           "id": 16420104,
           "Username": "Mimil",
           "country_code": "FR",
+          "Rank": 19641,
           "CoverUrl": "https://assets.ppy.sh/user-profile-covers/16420104/02aeadc9b97314ecdd8b1fe0996675465f4113d2fd278c8e408302d95f7b2189.png"
         }
       ]
@@ -2507,12 +2520,13 @@
       "SeedingResults": [],
       "Seed": "1",
       "LastYearPlacing": 1,
-      "AverageRank": 2997.0,
+      "AverageRank": 6364.25,
       "Players": [
         {
           "id": 4529885,
           "Username": "Kotonashi",
           "country_code": "US",
+          "Rank": 7844,
           "CoverUrl": "https://assets.ppy.sh/user-profile-covers/4529885/513f0c6fd50b64f5d539cb1484f8b2bd3c0bd4130c8d2fcb1035031e3daac2e0.png"
         },
         {
@@ -2526,6 +2540,7 @@
           "id": 4209818,
           "Username": "Azurium",
           "country_code": "US",
+          "Rank": 11619,
           "CoverUrl": "https://assets.ppy.sh/user-profile-covers/4209818/959c6a6b8c0a7ef007e865c7df4e63d651d50599ea44e0f18eaca86d1d25e8a0.png"
         },
         {
@@ -2544,18 +2559,20 @@
       "SeedingResults": [],
       "Seed": "1",
       "LastYearPlacing": 1,
-      "AverageRank": 4421.5,
+      "AverageRank": 4400.25,
       "Players": [
         {
           "id": 3645490,
           "Username": "Agagak",
           "country_code": "MY",
+          "Rank": 3696,
           "CoverUrl": "https://assets.ppy.sh/user-profile-covers/3645490/78b15866210cebfc3de4a7a92a7fceea4fb5ae7c775db0d9b5ab729e7d8f4718.jpeg"
         },
         {
           "id": 13626098,
           "Username": "Jolene",
           "country_code": "MY",
+          "Rank": 5062,
           "CoverUrl": "https://assets.ppy.sh/user-profile-covers/13626098/3c9a202deac8b40a9b2019bc3bfb1890f69b2ea301bee19fc5e7b2471a4bea33.jpeg"
         },
         {
@@ -2581,7 +2598,7 @@
       "SeedingResults": [],
       "Seed": "1",
       "LastYearPlacing": 1,
-      "AverageRank": 2276.5,
+      "AverageRank": 3341.75,
       "Players": [
         {
           "id": 9448341,
@@ -2594,13 +2611,15 @@
           "id": 13757181,
           "Username": "_Ecly",
           "country_code": "IT",
-          "CoverUrl": "https://lazer.ppy.sh/images/headers/profile-covers/c3.jpg"
+          "Rank": 5532,
+          "CoverUrl": "https://osu.ppy.sh/images/headers/profile-covers/c3.jpg"
         },
         {
           "id": 947742,
           "Username": "parlophone",
           "country_code": "CL",
-          "CoverUrl": "https://lazer.ppy.sh/images/headers/profile-covers/c2.jpg"
+          "Rank": 3282,
+          "CoverUrl": "https://osu.ppy.sh/images/headers/profile-covers/c2.jpg"
         },
         {
           "id": 14069730,
@@ -2618,29 +2637,34 @@
       "SeedingResults": [],
       "Seed": "1",
       "LastYearPlacing": 1,
+      "AverageRank": 10856.25,
       "Players": [
         {
           "id": 114017,
           "Username": "KRZY",
           "country_code": "KR",
+          "Rank": 3360,
           "CoverUrl": "https://assets.ppy.sh/user-profile-covers/114017/0860a4d2bfe741d312adf47f12b08f50cd88b2c0fbab2e9a9a9711a83fa70931.png"
         },
         {
           "id": 757783,
           "Username": "Garalulu",
           "country_code": "KR",
+          "Rank": 5526,
           "CoverUrl": "https://assets.ppy.sh/user-profile-covers/757783/f0c02639700f3f015201eeb5fc4851bd3e5f9c52ccb4f5cfaad5dcafa4fada4d.jpeg"
         },
         {
           "id": 1274798,
           "Username": "MoNaMiC",
           "country_code": "KR",
+          "Rank": 8576,
           "CoverUrl": "https://assets.ppy.sh/user-profile-covers/1274798/4d18d08a1955e1d4e9d71668f647609a8e95c342b6b48ee6e6b1535756515fb0.png"
         },
         {
           "id": 14174951,
           "Username": "Heony",
           "country_code": "KR",
+          "Rank": 25963,
           "CoverUrl": "https://assets.ppy.sh/user-profile-covers/14174951/8ff155a902a201bcf481a71ff3fed928ed39f44afd8d7d25e326146075d4bb1c.jpeg"
         }
       ]
@@ -2652,12 +2676,13 @@
       "SeedingResults": [],
       "Seed": "1",
       "LastYearPlacing": 1,
-      "AverageRank": 1186.5,
+      "AverageRank": 2513.25,
       "Players": [
         {
           "id": 11658236,
           "Username": "Vexion 2",
           "country_code": "AR",
+          "Rank": 3692,
           "CoverUrl": "https://assets.ppy.sh/user-profile-covers/11658236/cf0200b0818486e5862faaec62235ffcac0c011c46dde6ade9f33ac05500e24f.jpeg"
         },
         {
@@ -2671,6 +2696,7 @@
           "id": 18207356,
           "Username": "-lexi",
           "country_code": "US",
+          "Rank": 3988,
           "CoverUrl": "https://assets.ppy.sh/user-profile-covers/18207356/b6b3ff41f5d5dfe363a5b220f73a5b6f314489eee9effdaf90de4a5ba0d81db8.jpeg"
         },
         {
@@ -2689,18 +2715,20 @@
       "SeedingResults": [],
       "Seed": "1",
       "LastYearPlacing": 1,
-      "AverageRank": 4121.0,
+      "AverageRank": 4360.75,
       "Players": [
         {
           "id": 11580377,
           "Username": "Fair Trade",
           "country_code": "US",
+          "Rank": 3904,
           "CoverUrl": "https://assets.ppy.sh/user-profile-covers/11580377/34e0fd28728f7d9f91ae8d03040d9701597d5e3302f05588ff2929d974a72ea7.jpeg"
         },
         {
           "id": 12325702,
           "Username": "tairizu19",
           "country_code": "PH",
+          "Rank": 3664,
           "CoverUrl": "https://assets.ppy.sh/user-profile-covers/12325702/21188f2e986efa9a2c9cdea709241fee1571bad7286c60577e7f886398b76c82.jpeg"
         },
         {
@@ -2714,6 +2742,7 @@
           "id": 14025454,
           "Username": "St3kiii",
           "country_code": "DE",
+          "Rank": 5754,
           "CoverUrl": "https://assets.ppy.sh/user-profile-covers/14025454/74cf0ae3fe293f00d2f2e0ce496deda85a0dfa08aeff8e39ff2b7b43848b44a7.jpeg"
         }
       ]
@@ -2725,7 +2754,7 @@
       "SeedingResults": [],
       "Seed": "1",
       "LastYearPlacing": 1,
-      "AverageRank": 1700.5,
+      "AverageRank": 4258.5,
       "Players": [
         {
           "id": 11959709,
@@ -2738,12 +2767,14 @@
           "id": 22461441,
           "Username": "3BDOOO",
           "country_code": "SA",
-          "CoverUrl": "https://lazer.ppy.sh/images/headers/profile-covers/c6.jpg"
+          "Rank": 10225,
+          "CoverUrl": "https://osu.ppy.sh/images/headers/profile-covers/c6.jpg"
         },
         {
           "id": 10509043,
           "Username": "P r a h",
           "country_code": "PE",
+          "Rank": 3408,
           "CoverUrl": "https://assets.ppy.sh/user-profile-covers/10509043/b295659e2acb5f19dfc6e2e187a971c79652048b835eb6541b09a470c0c2e464.png"
         },
         {
@@ -2762,7 +2793,7 @@
       "SeedingResults": [],
       "Seed": "1",
       "LastYearPlacing": 1,
-      "AverageRank": 2588.0,
+      "AverageRank": 2780.25,
       "Players": [
         {
           "id": 9498319,
@@ -2775,6 +2806,7 @@
           "id": 10870989,
           "Username": "Alpama",
           "country_code": "AU",
+          "Rank": 3357,
           "CoverUrl": "https://assets.ppy.sh/user-profile-covers/10870989/84e97c5309400d73c2800505095d165d9ea20279791cdd86c5c8fdae48f60bc7.png"
         },
         {
@@ -2800,7 +2832,7 @@
       "SeedingResults": [],
       "Seed": "1",
       "LastYearPlacing": 1,
-      "AverageRank": 2657.0,
+      "AverageRank": 3497.0,
       "Players": [
         {
           "id": 2935432,
@@ -2813,6 +2845,7 @@
           "id": 7852852,
           "Username": "vo_ine",
           "country_code": "KR",
+          "Rank": 4971,
           "CoverUrl": "https://assets.ppy.sh/user-profile-covers/7852852/97367a3fe4108dc9cb30169bff4f5ead01f8c7aef5b76e3e7810939481fbd78c.jpeg"
         },
         {
@@ -2826,6 +2859,7 @@
           "id": 9523661,
           "Username": "Tabletti",
           "country_code": "FI",
+          "Rank": 3703,
           "CoverUrl": "https://assets.ppy.sh/user-profile-covers/9523661/06d20627c796cdba080cde685009c5e1e62b96e930ad1ba6e540fe80dbc2097f.gif"
         }
       ]
@@ -2837,7 +2871,7 @@
       "SeedingResults": [],
       "Seed": "1",
       "LastYearPlacing": 1,
-      "AverageRank": 2291.0,
+      "AverageRank": 7366.75,
       "Players": [
         {
           "id": 3786620,
@@ -2850,18 +2884,21 @@
           "id": 15392570,
           "Username": "Musa",
           "country_code": "FI",
+          "Rank": 10073,
           "CoverUrl": "https://assets.ppy.sh/user-profile-covers/15392570/face15eaebebc166beb90ff03cb4e4c7efed78b1488c32fcfd01630f7fb64eca.png"
         },
         {
           "id": 2073320,
           "Username": "Tpee",
           "country_code": "FI",
-          "CoverUrl": "https://lazer.ppy.sh/images/headers/profile-covers/c1.jpg"
+          "Rank": 5860,
+          "CoverUrl": "https://osu.ppy.sh/images/headers/profile-covers/c1.jpg"
         },
         {
           "id": 9634978,
           "Username": "CPU_Cartel",
           "country_code": "FI",
+          "Rank": 11243,
           "CoverUrl": "https://assets.ppy.sh/user-profile-covers/9634978/e07d12662d9f955eec89c8fdc5d75924a204f076b3f580222ecacc5541bf522c.png"
         }
       ]
@@ -2873,12 +2910,13 @@
       "SeedingResults": [],
       "Seed": "1",
       "LastYearPlacing": 1,
-      "AverageRank": 2736.6666666666665,
+      "AverageRank": 3971.75,
       "Players": [
         {
           "id": 10941597,
           "Username": "Zenyr",
           "country_code": "US",
+          "Rank": 7677,
           "CoverUrl": "https://assets.ppy.sh/user-profile-covers/10941597/bc39f153c4d1c8c27bee97987fe3ab9540f723ff649b76c48d9ac38e277aa248.jpeg"
         },
         {
@@ -2911,23 +2949,27 @@
       "SeedingResults": [],
       "Seed": "1",
       "LastYearPlacing": 1,
+      "AverageRank": 4834.333333333333,
       "Players": [
         {
           "id": 8401905,
           "Username": "Ramon",
           "country_code": "DE",
+          "Rank": 4568,
           "CoverUrl": "https://assets.ppy.sh/user-profile-covers/8401905/717796aab9beabe0b797ca65067815c1894b53134cab9387709a0faf970a665c.gif"
         },
         {
           "id": 3619284,
           "Username": "Menty",
           "country_code": "DE",
+          "Rank": 3795,
           "CoverUrl": "https://assets.ppy.sh/user-profile-covers/3619284/64fc4247858e403002eccc43ee8f53fc5ebf53c24bdc5585886ae2ca1432d8e6.jpeg"
         },
         {
           "id": 10526814,
           "Username": "Luminiscental",
           "country_code": "GB",
+          "Rank": 6140,
           "CoverUrl": "https://assets.ppy.sh/user-profile-covers/10526814/5428c57698b0920dd5232bb32d4ea4f14c32e455d923fc4a7aca86d0b84e0cba.jpeg"
         },
         {
@@ -2944,18 +2986,20 @@
       "SeedingResults": [],
       "Seed": "1",
       "LastYearPlacing": 1,
-      "AverageRank": 2215.5,
+      "AverageRank": 3784.5,
       "Players": [
         {
           "id": 9383377,
           "Username": "Snowpoint",
           "country_code": "AU",
+          "Rank": 7249,
           "CoverUrl": "https://assets.ppy.sh/user-profile-covers/9383377/aee9ddb9c6df955648d6942c930ba333a9695cf638bed2374b3956ab3da4b7a8.jpeg"
         },
         {
           "id": 3222676,
           "Username": "zzzbored",
           "country_code": "AU",
+          "Rank": 3458,
           "CoverUrl": "https://assets.ppy.sh/user-profile-covers/3222676/fdfd8797786d5c4c4bb278953672ca082021e4fcc923742129d53b07381fccea.png"
         },
         {
@@ -3020,24 +3064,27 @@
       "SeedingResults": [],
       "Seed": "1",
       "LastYearPlacing": 1,
-      "AverageRank": 1454.0,
+      "AverageRank": 3891.5,
       "Players": [
         {
           "id": 10442993,
           "Username": "Hinatsuru Ai",
           "country_code": "PH",
+          "Rank": 4879,
           "CoverUrl": "https://assets.ppy.sh/user-profile-covers/10442993/13f35485b389e329a9754405b27b8a8b22aa186e074fe44ec7a6685707e02f86.jpeg"
         },
         {
           "id": 14916935,
           "Username": "rwnd_",
           "country_code": "PH",
+          "Rank": 5072,
           "CoverUrl": "https://assets.ppy.sh/user-profile-covers/14916935/70ee0f8409cf71f068ea2a089093e670158c380cf22aa8b8e80f744694c095f8.png"
         },
         {
           "id": 7991329,
           "Username": "Miyazumi",
           "country_code": "PH",
+          "Rank": 4161,
           "CoverUrl": "https://assets.ppy.sh/user-profile-covers/7991329/8b9756ce59042c23071edd2bf9c47a9919d15eaa63a458ae72cf55607d6df77a.gif"
         },
         {
@@ -3056,18 +3103,20 @@
       "SeedingResults": [],
       "Seed": "1",
       "LastYearPlacing": 1,
-      "AverageRank": 2279.0,
+      "AverageRank": 7985.25,
       "Players": [
         {
           "id": 20630250,
           "Username": "Stage my mommy",
           "country_code": "US",
+          "Rank": 15012,
           "CoverUrl": "https://assets.ppy.sh/user-profile-covers/20630250/963faafd41f1874418bf5c2dd44a23be07a20ce198215fc7a37d6fdc4d11dc65.png"
         },
         {
           "id": 3257847,
           "Username": "MyzeJD",
           "country_code": "FR",
+          "Rank": 12371,
           "CoverUrl": "https://assets.ppy.sh/user-profile-covers/3257847/06782a0e7808be6323c3685a54ff7fbdda10a59d08a7d484db2e1e19235bf5fa.png"
         },
         {
@@ -3093,24 +3142,27 @@
       "SeedingResults": [],
       "Seed": "1",
       "LastYearPlacing": 1,
-      "AverageRank": 1861.0,
+      "AverageRank": 5052.0,
       "Players": [
         {
           "id": 13925698,
           "Username": "Nijakii",
           "country_code": "IT",
+          "Rank": 8132,
           "CoverUrl": "https://assets.ppy.sh/user-profile-covers/13925698/acf13d68896afe66f4a11c91b1d6825041278290852ebc47d231c75a158afa84.png"
         },
         {
           "id": 11371245,
           "Username": "aahoff",
           "country_code": "DE",
+          "Rank": 4561,
           "CoverUrl": "https://assets.ppy.sh/user-profile-covers/11371245/d0d338d4ec6ec655e8746d4c20aa6c9595d4c78bec3972b7abc91937a8779cd9.jpeg"
         },
         {
           "id": 8150535,
           "Username": "Fejlan",
           "country_code": "SE",
+          "Rank": 5654,
           "CoverUrl": "https://assets.ppy.sh/user-profile-covers/8150535/0182de14c7d3f109efd38b18c573a1ade18303997642b18b0471c5dd6c0423ec.jpeg"
         },
         {
@@ -3129,7 +3181,7 @@
       "SeedingResults": [],
       "Seed": "1",
       "LastYearPlacing": 1,
-      "AverageRank": 1610.5,
+      "AverageRank": 2994.25,
       "Players": [
         {
           "id": 16391241,
@@ -3149,12 +3201,14 @@
           "id": 17663666,
           "Username": "flyond",
           "country_code": "HK",
+          "Rank": 4930,
           "CoverUrl": "https://assets.ppy.sh/user-profile-covers/17663666/e5270b78b44c726498ec0ae374457af67f96550b77982eec745b474e515ff4b5.jpeg"
         },
         {
           "id": 18296925,
           "Username": "RemIscute07",
           "country_code": "HK",
+          "Rank": 3826,
           "CoverUrl": "https://assets.ppy.sh/user-profile-covers/18296925/b2d94e4447bafba32506ace1a264140a2f1dfa9c00819b0c8a546ad36109ee78.jpeg"
         }
       ]
@@ -3166,7 +3220,7 @@
       "SeedingResults": [],
       "Seed": "1",
       "LastYearPlacing": 1,
-      "AverageRank": 2856.3333333333335,
+      "AverageRank": 4734.0,
       "Players": [
         {
           "id": 7023000,
@@ -3179,6 +3233,7 @@
           "id": 12090610,
           "Username": "HuTaoMyMommy",
           "country_code": "DE",
+          "Rank": 10367,
           "CoverUrl": "https://assets.ppy.sh/user-profile-covers/12090610/d2b4ab1dbb21bb5b1a1177db8376bfbc1f9013055e62d9400a115ed737ebe369.jpeg"
         },
         {
@@ -3204,7 +3259,7 @@
       "SeedingResults": [],
       "Seed": "1",
       "LastYearPlacing": 1,
-      "AverageRank": 2737.6666666666665,
+      "AverageRank": 3310.25,
       "Players": [
         {
           "id": 12457381,
@@ -3224,6 +3279,7 @@
           "id": 17066686,
           "Username": "Schastye",
           "country_code": "KZ",
+          "Rank": 5028,
           "CoverUrl": "https://assets.ppy.sh/user-profile-covers/17066686/234d998a7b969012221c7de3e03e97c3f5deeee6ba3baa03f561eb785f5de674.jpeg"
         },
         {
@@ -3242,29 +3298,34 @@
       "SeedingResults": [],
       "Seed": "1",
       "LastYearPlacing": 1,
+      "AverageRank": 5099.25,
       "Players": [
         {
           "id": 5283014,
           "Username": "cmayN",
           "country_code": "US",
+          "Rank": 3045,
           "CoverUrl": "https://assets.ppy.sh/user-profile-covers/5283014/37882af8be2548cc9c611ca962ca7ccb375f662292e7e12f3ef9188d87e713db.png"
         },
         {
           "id": 17706086,
           "Username": "reshamen",
           "country_code": "GB",
+          "Rank": 3487,
           "CoverUrl": "https://assets.ppy.sh/user-profile-covers/17706086/22b72795bec7fcad5039c7c3f01c5b4553fdd4eea62b4d52b4e908ccb1ee6ed6.png"
         },
         {
           "id": 8112433,
           "Username": "sleeping_24-7",
           "country_code": "US",
-          "CoverUrl": "https://lazer.ppy.sh/images/headers/profile-covers/c7.jpg"
+          "Rank": 5127,
+          "CoverUrl": "https://osu.ppy.sh/images/headers/profile-covers/c7.jpg"
         },
         {
           "id": 6843383,
           "Username": "YoshiLover456",
           "country_code": "US",
+          "Rank": 8738,
           "CoverUrl": "https://assets.ppy.sh/user-profile-covers/6843383/0fcefc0514fab187511cfcf16d478745f98196245cc5953f2e3df98ca6bb607e.jpeg"
         }
       ]
@@ -3315,7 +3376,7 @@
       "SeedingResults": [],
       "Seed": "1",
       "LastYearPlacing": 1,
-      "AverageRank": 3275.5,
+      "AverageRank": 4846.75,
       "Players": [
         {
           "id": 12115298,
@@ -3328,6 +3389,7 @@
           "id": 9297920,
           "Username": "Shoultzzz",
           "country_code": "MX",
+          "Rank": 3500,
           "CoverUrl": "https://assets.ppy.sh/user-profile-covers/9297920/61f630a3cdb9b373be78ec89c209b4c3517649cd01a1d96bd9338550361643c4.png"
         },
         {
@@ -3341,7 +3403,8 @@
           "id": 14713255,
           "Username": "oei",
           "country_code": "US",
-          "CoverUrl": "https://lazer.ppy.sh/images/headers/profile-covers/c8.jpg"
+          "Rank": 9336,
+          "CoverUrl": "https://osu.ppy.sh/images/headers/profile-covers/c8.jpg"
         }
       ]
     },
@@ -3352,7 +3415,7 @@
       "SeedingResults": [],
       "Seed": "1",
       "LastYearPlacing": 1,
-      "AverageRank": 2510.0,
+      "AverageRank": 4476.75,
       "Players": [
         {
           "id": 4201807,
@@ -3379,6 +3442,7 @@
           "id": 12537417,
           "Username": "Hydrole",
           "country_code": "US",
+          "Rank": 10377,
           "CoverUrl": "https://assets.ppy.sh/user-profile-covers/12537417/1160ed4992181f8384c8614a7ed0f2ab50f38cec7f1840aea8fb50ac8d7b0329.png"
         }
       ]
@@ -3390,7 +3454,7 @@
       "SeedingResults": [],
       "Seed": "1",
       "LastYearPlacing": 1,
-      "AverageRank": 2168.6666666666665,
+      "AverageRank": 3343.25,
       "Players": [
         {
           "id": 13141032,
@@ -3410,7 +3474,8 @@
           "id": 6717559,
           "Username": "ruruichi",
           "country_code": "ID",
-          "CoverUrl": "https://lazer.ppy.sh/images/headers/profile-covers/c7.jpg"
+          "Rank": 6867,
+          "CoverUrl": "https://osu.ppy.sh/images/headers/profile-covers/c7.jpg"
         },
         {
           "id": 18248035,
@@ -3428,7 +3493,7 @@
       "SeedingResults": [],
       "Seed": "1",
       "LastYearPlacing": 1,
-      "AverageRank": 1387.0,
+      "AverageRank": 3298.0,
       "Players": [
         {
           "id": 8170022,
@@ -3448,12 +3513,14 @@
           "id": 12047601,
           "Username": "xMatrix382",
           "country_code": "PL",
+          "Rank": 4133,
           "CoverUrl": "https://assets.ppy.sh/user-profile-covers/12047601/3eaa758890337ffac2cdd3b46bbf9bf4ee70ad57d7b0afd35c515dba9c0b213a.jpeg"
         },
         {
           "id": 8246365,
           "Username": "SpellZZZ",
           "country_code": "PL",
+          "Rank": 6285,
           "CoverUrl": "https://assets.ppy.sh/user-profile-covers/8246365/ce77851a62faa613fbf8c78aa1a9f5917845bc7f8c6de2124c8f31e5f5f0524a.jpeg"
         }
       ]
@@ -3465,19 +3532,21 @@
       "SeedingResults": [],
       "Seed": "1",
       "LastYearPlacing": 1,
-      "AverageRank": 6908.0,
+      "AverageRank": 15698.25,
       "Players": [
         {
           "id": 15975275,
           "Username": "NEW GOD",
           "country_code": "KR",
-          "CoverUrl": "https://lazer.ppy.sh/images/headers/profile-covers/c4.jpg"
+          "Rank": 9981,
+          "CoverUrl": "https://osu.ppy.sh/images/headers/profile-covers/c4.jpg"
         },
         {
           "id": 1433427,
           "Username": "myhan3",
           "country_code": "KR",
-          "CoverUrl": "https://lazer.ppy.sh/images/headers/profile-covers/c4.jpg"
+          "Rank": 10268,
+          "CoverUrl": "https://osu.ppy.sh/images/headers/profile-covers/c4.jpg"
         },
         {
           "id": 14758501,
@@ -3490,6 +3559,7 @@
           "id": 9362168,
           "Username": "UC3",
           "country_code": "NL",
+          "Rank": 35636,
           "CoverUrl": "https://assets.ppy.sh/user-profile-covers/9362168/39de191c2737f08cf8862218d3d0f7bb9456e8f89beca20d6ccf70db2a0e0443.png"
         }
       ]
@@ -3501,18 +3571,20 @@
       "SeedingResults": [],
       "Seed": "1",
       "LastYearPlacing": 1,
-      "AverageRank": 2167.0,
+      "AverageRank": 5102.0,
       "Players": [
         {
           "id": 10569381,
           "Username": "KeitoChan",
           "country_code": "RO",
+          "Rank": 4014,
           "CoverUrl": "https://assets.ppy.sh/user-profile-covers/10569381/add1850ac6b3d238d8c69cb3cfa04e19f71c5cf8dcc76999a486216fb68f1cea.jpeg"
         },
         {
           "id": 8511882,
           "Username": "_Silvian",
           "country_code": "RO",
+          "Rank": 6517,
           "CoverUrl": "https://assets.ppy.sh/user-profile-covers/8511882/4a511701212d87c415eee7b102ceb6237acf5d13761f5507b5de4ba1697a6b1a.jpeg"
         },
         {
@@ -3526,6 +3598,7 @@
           "id": 12274213,
           "Username": "IIANTONIOII",
           "country_code": "RO",
+          "Rank": 7710,
           "CoverUrl": "https://assets.ppy.sh/user-profile-covers/12274213/a940e377dbc80d290746f035559a4ed486b0397daf2bf56114b610297e7942ff.png"
         }
       ]
