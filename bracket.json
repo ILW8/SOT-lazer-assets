@@ -6,8 +6,592 @@
     "LastAppliedDifficultyVersion": 20220902,
     "Available": true
   },
-  "Matches": [{"ID": 1, "Team1Score": null, "Team2Score": null, "Completed": false, "Losers": false, "PicksBans": [], "Current": false, "Date": "2023-03-26T05:42:36.527195+01:00", "ConditionalMatches": [], "Position": {"X": 0, "Y": 64}, "Acronyms": [], "id": 1}, {"ID": 1, "Team1Score": null, "Team2Score": null, "Completed": false, "Losers": false, "PicksBans": [], "Current": false, "Date": "2023-03-26T05:42:36.527195+01:00", "ConditionalMatches": [], "Position": {"X": 0, "Y": 160}, "Acronyms": [], "id": 2}, {"ID": 1, "Team1Score": null, "Team2Score": null, "Completed": false, "Losers": false, "PicksBans": [], "Current": false, "Date": "2023-03-26T05:42:36.527195+01:00", "ConditionalMatches": [], "Position": {"X": 0, "Y": 256}, "Acronyms": [], "id": 3}, {"ID": 1, "Team1Score": null, "Team2Score": null, "Completed": false, "Losers": false, "PicksBans": [], "Current": false, "Date": "2023-03-26T05:42:36.527195+01:00", "ConditionalMatches": [], "Position": {"X": 0, "Y": 352}, "Acronyms": [], "id": 4}, {"ID": 1, "Team1Score": null, "Team2Score": null, "Completed": false, "Losers": false, "PicksBans": [], "Current": false, "Date": "2023-03-26T05:42:36.527195+01:00", "ConditionalMatches": [], "Position": {"X": 0, "Y": 448}, "Acronyms": [], "id": 5}, {"ID": 1, "Team1Score": null, "Team2Score": null, "Completed": false, "Losers": false, "PicksBans": [], "Current": false, "Date": "2023-03-26T05:42:36.527195+01:00", "ConditionalMatches": [], "Position": {"X": 0, "Y": 544}, "Acronyms": [], "id": 6}, {"ID": 1, "Team1Score": null, "Team2Score": null, "Completed": false, "Losers": false, "PicksBans": [], "Current": false, "Date": "2023-03-26T05:42:36.527195+01:00", "ConditionalMatches": [], "Position": {"X": 0, "Y": 640}, "Acronyms": [], "id": 7}, {"ID": 1, "Team1Score": null, "Team2Score": null, "Completed": false, "Losers": false, "PicksBans": [], "Current": false, "Date": "2023-03-26T05:42:36.527195+01:00", "ConditionalMatches": [], "Position": {"X": 0, "Y": 736}, "Acronyms": [], "id": 8}, {"ID": 1, "Team1Score": null, "Team2Score": null, "Completed": false, "Losers": false, "PicksBans": [], "Current": false, "Date": "2023-03-26T05:42:36.527195+01:00", "ConditionalMatches": [], "Position": {"X": 192, "Y": 896}, "Acronyms": [], "id": 9}, {"ID": 1, "Team1Score": null, "Team2Score": null, "Completed": false, "Losers": false, "PicksBans": [], "Current": false, "Date": "2023-03-26T05:42:36.527195+01:00", "ConditionalMatches": [], "Position": {"X": 192, "Y": 992}, "Acronyms": [], "id": 10}, {"ID": 1, "Team1Score": null, "Team2Score": null, "Completed": false, "Losers": false, "PicksBans": [], "Current": false, "Date": "2023-03-26T05:42:36.527195+01:00", "ConditionalMatches": [], "Position": {"X": 192, "Y": 1088}, "Acronyms": [], "id": 11}, {"ID": 1, "Team1Score": null, "Team2Score": null, "Completed": false, "Losers": false, "PicksBans": [], "Current": false, "Date": "2023-03-26T05:42:36.527195+01:00", "ConditionalMatches": [], "Position": {"X": 192, "Y": 1184}, "Acronyms": [], "id": 12}, {"ID": 1, "Team1Score": null, "Team2Score": null, "Completed": false, "Losers": false, "PicksBans": [], "Current": false, "Date": "2023-03-26T05:42:36.527195+01:00", "ConditionalMatches": [], "Position": {"X": 256, "Y": 112}, "Acronyms": [], "id": 13}, {"ID": 1, "Team1Score": null, "Team2Score": null, "Completed": false, "Losers": false, "PicksBans": [], "Current": false, "Date": "2023-03-26T05:42:36.527195+01:00", "ConditionalMatches": [], "Position": {"X": 256, "Y": 304}, "Acronyms": [], "id": 14}, {"ID": 1, "Team1Score": null, "Team2Score": null, "Completed": false, "Losers": false, "PicksBans": [], "Current": false, "Date": "2023-03-26T05:42:36.527195+01:00", "ConditionalMatches": [], "Position": {"X": 256, "Y": 496}, "Acronyms": [], "id": 15}, {"ID": 1, "Team1Score": null, "Team2Score": null, "Completed": false, "Losers": false, "PicksBans": [], "Current": false, "Date": "2023-03-26T05:42:36.527195+01:00", "ConditionalMatches": [], "Position": {"X": 256, "Y": 688}, "Acronyms": [], "id": 16}, {"ID": 1, "Team1Score": null, "Team2Score": null, "Completed": false, "Losers": false, "PicksBans": [], "Current": false, "Date": "2023-03-26T05:42:36.527195+01:00", "ConditionalMatches": [], "Position": {"X": 448, "Y": 896}, "Acronyms": [], "id": 17}, {"ID": 1, "Team1Score": null, "Team2Score": null, "Completed": false, "Losers": false, "PicksBans": [], "Current": false, "Date": "2023-03-26T05:42:36.527195+01:00", "ConditionalMatches": [], "Position": {"X": 448, "Y": 992}, "Acronyms": [], "id": 18}, {"ID": 1, "Team1Score": null, "Team2Score": null, "Completed": false, "Losers": false, "PicksBans": [], "Current": false, "Date": "2023-03-26T05:42:36.527195+01:00", "ConditionalMatches": [], "Position": {"X": 448, "Y": 1088}, "Acronyms": [], "id": 19}, {"ID": 1, "Team1Score": null, "Team2Score": null, "Completed": false, "Losers": false, "PicksBans": [], "Current": false, "Date": "2023-03-26T05:42:36.527195+01:00", "ConditionalMatches": [], "Position": {"X": 448, "Y": 1184}, "Acronyms": [], "id": 20}, {"ID": 1, "Team1Score": null, "Team2Score": null, "Completed": false, "Losers": false, "PicksBans": [], "Current": false, "Date": "2023-03-26T05:42:36.527195+01:00", "ConditionalMatches": [], "Position": {"X": 704, "Y": 944}, "Acronyms": [], "id": 21}, {"ID": 1, "Team1Score": null, "Team2Score": null, "Completed": false, "Losers": false, "PicksBans": [], "Current": false, "Date": "2023-03-26T05:42:36.527195+01:00", "ConditionalMatches": [], "Position": {"X": 704, "Y": 1136}, "Acronyms": [], "id": 22}, {"ID": 1, "Team1Score": null, "Team2Score": null, "Completed": false, "Losers": false, "PicksBans": [], "Current": false, "Date": "2023-03-26T05:42:36.527195+01:00", "ConditionalMatches": [], "Position": {"X": 768, "Y": 208}, "Acronyms": [], "id": 23}, {"ID": 1, "Team1Score": null, "Team2Score": null, "Completed": false, "Losers": false, "PicksBans": [], "Current": false, "Date": "2023-03-26T05:42:36.527195+01:00", "ConditionalMatches": [], "Position": {"X": 768, "Y": 592}, "Acronyms": [], "id": 24}, {"ID": 1, "Team1Score": null, "Team2Score": null, "Completed": false, "Losers": false, "PicksBans": [], "Current": false, "Date": "2023-03-26T05:42:36.527195+01:00", "ConditionalMatches": [], "Position": {"X": 960, "Y": 944}, "Acronyms": [], "id": 25}, {"ID": 1, "Team1Score": null, "Team2Score": null, "Completed": false, "Losers": false, "PicksBans": [], "Current": false, "Date": "2023-03-26T05:42:36.527195+01:00", "ConditionalMatches": [], "Position": {"X": 960, "Y": 1136}, "Acronyms": [], "id": 26}, {"ID": 1, "Team1Score": null, "Team2Score": null, "Completed": false, "Losers": false, "PicksBans": [], "Current": false, "Date": "2023-03-26T05:42:36.527195+01:00", "ConditionalMatches": [], "Position": {"X": 1216, "Y": 1040}, "Acronyms": [], "id": 27}, {"ID": 1, "Team1Score": null, "Team2Score": null, "Completed": false, "Losers": false, "PicksBans": [], "Current": false, "Date": "2023-03-26T05:42:36.527195+01:00", "ConditionalMatches": [], "Position": {"X": 1280, "Y": 304}, "Acronyms": [], "id": 28}]
-,
+  "Matches": [
+    {
+      "ID": 1,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": false,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-03-26T05:42:36.527195+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "Y": 64
+      },
+      "Acronyms": [],
+      "PointsToWin": 6
+    },
+    {
+      "ID": 3,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": false,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-03-26T05:42:36.527195+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "Y": 160
+      },
+      "Acronyms": [],
+      "PointsToWin": 6
+    },
+    {
+      "ID": 5,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": false,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-03-26T05:42:36.527195+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "Y": 256
+      },
+      "Acronyms": [],
+      "PointsToWin": 6
+    },
+    {
+      "ID": 8,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": false,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-03-26T05:42:36.527195+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "Y": 352
+      },
+      "Acronyms": [],
+      "PointsToWin": 6
+    },
+    {
+      "ID": 9,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": false,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-03-26T05:42:36.527195+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "Y": 448
+      },
+      "Acronyms": [],
+      "PointsToWin": 6
+    },
+    {
+      "ID": 11,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": false,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-03-26T05:42:36.527195+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "Y": 544
+      },
+      "Acronyms": [],
+      "PointsToWin": 7
+    },
+    {
+      "ID": 13,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": false,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-03-26T05:42:36.527195+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "Y": 640
+      },
+      "Acronyms": [],
+      "PointsToWin": 6
+    },
+    {
+      "ID": 15,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": false,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-03-26T05:42:36.527195+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "Y": 736
+      },
+      "Acronyms": [],
+      "PointsToWin": 6
+    },
+    {
+      "ID": 2,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": false,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-03-26T05:42:36.527195+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 256,
+        "Y": 112
+      },
+      "Acronyms": [],
+      "PointsToWin": 6
+    },
+    {
+      "ID": 6,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": false,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-03-26T05:42:36.527195+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 256,
+        "Y": 304
+      },
+      "Acronyms": [],
+      "PointsToWin": 6
+    },
+    {
+      "ID": 10,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": false,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-03-26T05:42:36.527195+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 256,
+        "Y": 496
+      },
+      "Acronyms": [],
+      "PointsToWin": 6
+    },
+    {
+      "ID": 14,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": false,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-03-26T05:42:36.527195+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 256,
+        "Y": 688
+      },
+      "Acronyms": [],
+      "PointsToWin": 6
+    },
+    {
+      "ID": 17,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": true,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-03-26T05:42:36.527195+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 448,
+        "Y": 896
+      },
+      "Acronyms": [],
+      "PointsToWin": 6
+    },
+    {
+      "ID": 22,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": true,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-03-26T05:42:36.527195+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 448,
+        "Y": 992
+      },
+      "Acronyms": [],
+      "PointsToWin": 7
+    },
+    {
+      "ID": 25,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": true,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-03-26T05:42:36.527195+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 448,
+        "Y": 1088
+      },
+      "Acronyms": [],
+      "PointsToWin": 6
+    },
+    {
+      "ID": 30,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": true,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-03-26T05:42:36.527195+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 448,
+        "Y": 1184
+      },
+      "Acronyms": [],
+      "PointsToWin": 7
+    },
+    {
+      "ID": 19,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": true,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-03-26T05:42:36.527195+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 704,
+        "Y": 944
+      },
+      "Acronyms": [],
+      "PointsToWin": 6
+    },
+    {
+      "ID": 27,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": true,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-03-26T05:42:36.527195+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 704,
+        "Y": 1136
+      },
+      "Acronyms": [],
+      "PointsToWin": 6
+    },
+    {
+      "ID": 4,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": false,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-03-26T05:42:36.527195+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 768,
+        "Y": 208
+      },
+      "Acronyms": [],
+      "PointsToWin": 6
+    },
+    {
+      "ID": 12,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": false,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-03-26T05:42:36.527195+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 768,
+        "Y": 592
+      },
+      "Acronyms": [],
+      "PointsToWin": 7
+    },
+    {
+      "ID": 20,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": true,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-03-26T05:42:36.527195+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 960,
+        "Y": 944
+      },
+      "Acronyms": [],
+      "PointsToWin": 6
+    },
+    {
+      "ID": 28,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": true,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-03-26T05:42:36.527195+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 960,
+        "Y": 1136
+      },
+      "Acronyms": [],
+      "PointsToWin": 6
+    },
+    {
+      "ID": 23,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": true,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-03-26T05:42:36.527195+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 1216,
+        "Y": 1040
+      },
+      "Acronyms": [],
+      "PointsToWin": 6
+    },
+    {
+      "ID": 7,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": false,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-03-26T05:42:36.527195+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 1280,
+        "Y": 304
+      },
+      "Acronyms": [],
+      "PointsToWin": 7
+    },
+    {
+      "ID": 16,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": true,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-03-31T17:15:40.554342+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "Y": 896
+      },
+      "Acronyms": []
+    },
+    {
+      "ID": 21,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": true,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-03-31T17:15:42.725386+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "Y": 992
+      },
+      "Acronyms": []
+    },
+    {
+      "ID": 24,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": true,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-03-31T17:15:44.558406+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "Y": 1088
+      },
+      "Acronyms": []
+    },
+    {
+      "ID": 29,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": true,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-03-31T17:15:46.123215+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "Y": 1184
+      },
+      "Acronyms": []
+    },
+    {
+      "ID": 31,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": true,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-03-31T17:15:47.851827+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "Y": 1280
+      },
+      "Acronyms": []
+    },
+    {
+      "ID": 33,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": true,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-03-31T17:15:49.36481+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "Y": 1376
+      },
+      "Acronyms": []
+    },
+    {
+      "ID": 34,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": true,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-03-31T17:15:51.586081+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "Y": 1472
+      },
+      "Acronyms": []
+    },
+    {
+      "ID": 36,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": true,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-03-31T17:15:52.276835+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "Y": 1568
+      },
+      "Acronyms": []
+    },
+    {
+      "ID": 18,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": true,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-03-31T17:18:11.381989+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 220,
+        "Y": 944
+      },
+      "Acronyms": []
+    },
+    {
+      "ID": 26,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": true,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-03-31T17:18:12.215133+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 232,
+        "Y": 1136
+      },
+      "Acronyms": []
+    },
+    {
+      "ID": 32,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": true,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-03-31T17:18:13.634302+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 244,
+        "Y": 1328
+      },
+      "Acronyms": []
+    },
+    {
+      "ID": 35,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": true,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-03-31T17:18:14.691747+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 256,
+        "Y": 1520
+      },
+      "Acronyms": []
+    }
+  ],
   "Rounds": [
     {
       "Name": "Round of 16",
@@ -740,12 +1324,10 @@
         1,
         3,
         5,
-        8,
-        10,
-        12,
-        14,
-        17,
-        2
+        9,
+        15,
+        6,
+        17
       ]
     },
     {
@@ -1476,13 +2058,10 @@
       ],
       "StartDate": "2023-02-04T00:00:00+00:00",
       "Matches": [
-        7,
-        11,
-        15,
-        23,
-        26,
-        30,
-        34
+        13,
+        10,
+        4,
+        28
       ]
     },
     {
@@ -1547,14 +2126,11 @@
       ],
       "StartDate": "2023-02-11T00:00:00+00:00",
       "Matches": [
-        4,
-        13,
-        19,
+        8,
+        2,
         25,
-        29,
-        33,
-        22,
-        31
+        27,
+        20
       ]
     },
     {
@@ -1625,10 +2201,9 @@
       ],
       "StartDate": "2023-02-18T00:00:00+00:00",
       "Matches": [
-        9,
-        18,
-        28,
-        24
+        22,
+        12,
+        7
       ]
     },
     {
@@ -1699,8 +2274,8 @@
       ],
       "StartDate": "2023-02-25T00:00:00+00:00",
       "Matches": [
-        6,
-        20
+        11,
+        30
       ]
     },
     {
@@ -1771,17 +2346,1348 @@
       ],
       "StartDate": "2023-03-04T00:00:00+00:00",
       "Matches": [
-        32,
-        27,
-        21,
-        16
+        14,
+        19,
+        23
       ]
     }
   ],
-  "Teams": [{"FullName": ":bounceh:", "FlagName": "", "Acronym": "", "SeedingResults": [], "Seed": "1", "LastYearPlacing": 1, "Players": [{"id": 6131258}, {"id": 8543980}, {"id": 11255340}, {"id": 5584603}]}, {"FullName": ":coldcat:", "FlagName": "", "Acronym": "", "SeedingResults": [], "Seed": "1", "LastYearPlacing": 1, "Players": [{"id": 694480}, {"id": 5179557}, {"id": 10500832}, {"id": 4464845}]}, {"FullName": ":fire:**T E Z I**:fire:", "FlagName": "", "Acronym": "", "SeedingResults": [], "Seed": "1", "LastYearPlacing": 1, "Players": [{"id": 4801735}, {"id": 12585858}, {"id": 18224888}, {"id": 17865200}]}, {"FullName": ":MadelineSpinning:", "FlagName": "", "Acronym": "", "SeedingResults": [], "Seed": "1", "LastYearPlacing": 1, "Players": [{"id": 11129041}, {"id": 13935409}, {"id": 16420104}]}, {"FullName": ":norcal:", "FlagName": "", "Acronym": "", "SeedingResults": [], "Seed": "1", "LastYearPlacing": 1, "Players": [{"id": 4529885}, {"id": 11613306}, {"id": 4209818}, {"id": 9526124}]}, {"FullName": "10 things i hate about OSU", "FlagName": "", "Acronym": "", "SeedingResults": [], "Seed": "1", "LastYearPlacing": 1, "Players": [{"id": 14899675}, {"id": 14106178}, {"id": 15213299}, {"id": 23743938}]}, {"FullName": "Agalethiar-", "FlagName": "", "Acronym": "", "SeedingResults": [], "Seed": "1", "LastYearPlacing": 1, "Players": [{"id": 3645490}, {"id": 13626098}, {"id": 11918602}, {"id": 10474988}]}, {"FullName": "Akahito fanclub", "FlagName": "", "Acronym": "", "SeedingResults": [], "Seed": "1", "LastYearPlacing": 1, "Players": [{"id": 9448341}, {"id": 13757181}, {"id": 947742}, {"id": 14069730}]}, {"FullName": "anything", "FlagName": "", "Acronym": "", "SeedingResults": [], "Seed": "1", "LastYearPlacing": 1, "Players": [{"id": 15516059}, {"id": 15195364}, {"id": 12261210}, {"id": 15252736}]}, {"FullName": "Asado", "FlagName": "", "Acronym": "", "SeedingResults": [], "Seed": "1", "LastYearPlacing": 1, "Players": [{"id": 16535905}, {"id": 18962732}, {"id": 18847055}, {"id": 17545095}]}, {"FullName": "Baksal", "FlagName": "", "Acronym": "", "SeedingResults": [], "Seed": "1", "LastYearPlacing": 1, "Players": [{"id": 114017}, {"id": 757783}, {"id": 1274798}, {"id": 14174951}]}, {"FullName": "Bald Island", "FlagName": "", "Acronym": "", "SeedingResults": [], "Seed": "1", "LastYearPlacing": 1, "Players": [{"id": 11658236}, {"id": 10157694}, {"id": 18207356}, {"id": 6898948}]}, {"FullName": "Best Baltic Country", "FlagName": "", "Acronym": "", "SeedingResults": [], "Seed": "1", "LastYearPlacing": 1, "Players": [{"id": 10470806}, {"id": 11342324}, {"id": 7894397}, {"id": 10816682}]}, {"FullName": "Best Friends 1", "FlagName": "", "Acronym": "", "SeedingResults": [], "Seed": "1", "LastYearPlacing": 1, "Players": [{"id": 11580377}, {"id": 12325702}, {"id": 14294171}, {"id": 14025454}]}, {"FullName": "Blue it", "FlagName": "", "Acronym": "", "SeedingResults": [], "Seed": "1", "LastYearPlacing": 1, "Players": [{"id": 11959709}, {"id": 22461441}, {"id": 10509043}, {"id": 4604369}]}, {"FullName": "Bring Back 5* Pools", "FlagName": "", "Acronym": "", "SeedingResults": [], "Seed": "1", "LastYearPlacing": 1, "Players": [{"id": 9498319}, {"id": 10870989}, {"id": 13344402}, {"id": 13228917}]}, {"FullName": "\u010cern\u00fd t\u00fdm", "FlagName": "", "Acronym": "", "SeedingResults": [], "Seed": "1", "LastYearPlacing": 1, "Players": [{"id": 10949503}, {"id": 19623071}, {"id": 11478426}, {"id": 15063171}]}, {"FullName": "continue the heist", "FlagName": "", "Acronym": "", "SeedingResults": [], "Seed": "1", "LastYearPlacing": 1, "Players": [{"id": 5427223}, {"id": 12201636}, {"id": 10350809}, {"id": 2767636}]}, {"FullName": "DT DISABLED", "FlagName": "", "Acronym": "", "SeedingResults": [], "Seed": "1", "LastYearPlacing": 1, "Players": [{"id": 6639059}, {"id": 10522193}, {"id": 10862128}, {"id": 16652552}]}, {"FullName": "Finno-Korean Hyperwar", "FlagName": "", "Acronym": "", "SeedingResults": [], "Seed": "1", "LastYearPlacing": 1, "Players": [{"id": 2935432}, {"id": 7852852}, {"id": 12047944}, {"id": 9523661}]}, {"FullName": "fisheggs", "FlagName": "", "Acronym": "", "SeedingResults": [], "Seed": "1", "LastYearPlacing": 1, "Players": [{"id": 12045415}, {"id": 10287120}, {"id": 2893747}, {"id": 7616811}]}, {"FullName": "Gehstock Gaming", "FlagName": "", "Acronym": "", "SeedingResults": [], "Seed": "1", "LastYearPlacing": 1, "Players": [{"id": 6499356}, {"id": 13264148}, {"id": 3460534}, {"id": 8492399}]}, {"FullName": "German Ohio", "FlagName": "", "Acronym": "", "SeedingResults": [], "Seed": "1", "LastYearPlacing": 1, "Players": [{"id": 12528614}, {"id": 19526504}, {"id": 8712569}, {"id": 3249839}]}, {"FullName": "goblin.", "FlagName": "", "Acronym": "", "SeedingResults": [], "Seed": "1", "LastYearPlacing": 1, "Players": [{"id": 3786620}, {"id": 15392570}, {"id": 2073320}, {"id": 9634978}]}, {"FullName": "guh??", "FlagName": "", "Acronym": "", "SeedingResults": [], "Seed": "1", "LastYearPlacing": 1, "Players": [{"id": 10941597}, {"id": 9459674}, {"id": 12086452}, {"id": 9507565}]}, {"FullName": "Hayley ultrasound waiting room", "FlagName": "", "Acronym": "", "SeedingResults": [], "Seed": "1", "LastYearPlacing": 1, "Players": [{"id": 11906790}, {"id": 7588992}, {"id": 14754208}, {"id": 17720805}]}, {"FullName": "headman \u2014 Today at 20:05 how bout menty fucked ur mother ", "FlagName": "", "Acronym": "", "SeedingResults": [], "Seed": "1", "LastYearPlacing": 1, "Players": [{"id": 8401905}, {"id": 3619284}, {"id": 10526814}, {"id": 11706350}]}, {"FullName": "Hidden Players", "FlagName": "", "Acronym": "", "SeedingResults": [], "Seed": "1", "LastYearPlacing": 1, "Players": [{"id": 16951468}, {"id": 21229598}, {"id": 14188203}, {"id": 15928955}]}, {"FullName": "hihihihi bad acc speed players", "FlagName": "", "Acronym": "", "SeedingResults": [], "Seed": "1", "LastYearPlacing": 1, "Players": [{"id": 5274116}, {"id": 8876938}, {"id": 8268978}, {"id": 21653406}]}, {"FullName": "https://youtu.be/0lsDoRtFcsw", "FlagName": "", "Acronym": "", "SeedingResults": [], "Seed": "1", "LastYearPlacing": 1, "Players": [{"id": 9383377}, {"id": 3222676}, {"id": 10343292}, {"id": 7390726}]}, {"FullName": "I'm bad at that", "FlagName": "", "Acronym": "", "SeedingResults": [], "Seed": "1", "LastYearPlacing": 1, "Players": [{"id": 18947222}, {"id": 13888092}, {"id": 1743136}, {"id": 14915029}]}, {"FullName": "imgur.com/a/SekYkmB", "FlagName": "", "Acronym": "", "SeedingResults": [], "Seed": "1", "LastYearPlacing": 1, "Players": [{"id": 11633961}, {"id": 8191845}, {"id": 10224047}, {"id": 12476276}]}, {"FullName": "Jalmoranas", "FlagName": "", "Acronym": "", "SeedingResults": [], "Seed": "1", "LastYearPlacing": 1, "Players": [{"id": 10442993}, {"id": 14916935}, {"id": 7991329}, {"id": 2558163}]}, {"FullName": "JanGang", "FlagName": "", "Acronym": "", "SeedingResults": [], "Seed": "1", "LastYearPlacing": 1, "Players": [{"id": 3471120}, {"id": 6658273}, {"id": 11661764}, {"id": 13372743}]}, {"FullName": "Kolwna tis DEH", "FlagName": "", "Acronym": "", "SeedingResults": [], "Seed": "1", "LastYearPlacing": 1, "Players": [{"id": 9008423}, {"id": 7742067}, {"id": 2559954}, {"id": 7528685}]}, {"FullName": "L Farmers", "FlagName": "", "Acronym": "", "SeedingResults": [], "Seed": "1", "LastYearPlacing": 1, "Players": [{"id": 14162590}, {"id": 15350927}]}, {"FullName": "Lubi\u0119 ich m\u0142odych.", "FlagName": "", "Acronym": "", "SeedingResults": [], "Seed": "1", "LastYearPlacing": 1, "Players": [{"id": 20630250}, {"id": 3257847}, {"id": 14169321}, {"id": 11685498}]}, {"FullName": "Menaces", "FlagName": "", "Acronym": "", "SeedingResults": [], "Seed": "1", "LastYearPlacing": 1, "Players": [{"id": 3061206}, {"id": 11032889}, {"id": 13594983}, {"id": 17707354}]}, {"FullName": "Meowrki", "FlagName": "", "Acronym": "", "SeedingResults": [], "Seed": "1", "LastYearPlacing": 1, "Players": [{"id": 14480201}, {"id": 8948585}, {"id": 6286661}, {"id": 13864975}]}, {"FullName": "Mikubara", "FlagName": "", "Acronym": "", "SeedingResults": [], "Seed": "1", "LastYearPlacing": 1, "Players": [{"id": 12182138}, {"id": 11646616}, {"id": 1594767}]}, {"FullName": "Milk", "FlagName": "", "Acronym": "", "SeedingResults": [], "Seed": "1", "LastYearPlacing": 1, "Players": [{"id": 11332703}, {"id": 20210086}, {"id": 16223553}, {"id": 11216852}]}, {"FullName": "MOG CITY", "FlagName": "", "Acronym": "", "SeedingResults": [], "Seed": "1", "LastYearPlacing": 1, "Players": [{"id": 13925698}, {"id": 11371245}, {"id": 8150535}, {"id": 14806365}]}, {"FullName": "my kittens", "FlagName": "", "Acronym": "", "SeedingResults": [], "Seed": "1", "LastYearPlacing": 1, "Players": [{"id": 13802569}, {"id": 10613989}, {"id": 9047034}, {"id": 10722298}]}, {"FullName": "no idea ;3", "FlagName": "", "Acronym": "", "SeedingResults": [], "Seed": "1", "LastYearPlacing": 1, "Players": [{"id": 16391241}, {"id": 9317938}, {"id": 17663666}, {"id": 18296925}]}, {"FullName": "Operation give Musket a team", "FlagName": "", "Acronym": "", "SeedingResults": [], "Seed": "1", "LastYearPlacing": 1, "Players": [{"id": 7023000}, {"id": 12090610}, {"id": 6124459}, {"id": 3149395}]}, {"FullName": "osu chefs \ud83e\uddd1\u200d\ud83c\udf73", "FlagName": "", "Acronym": "", "SeedingResults": [], "Seed": "1", "LastYearPlacing": 1, "Players": [{"id": 14255332}, {"id": 7396542}, {"id": 9674143}, {"id": 10344658}]}, {"FullName": "Pa amb tomaquet", "FlagName": "", "Acronym": "", "SeedingResults": [], "Seed": "1", "LastYearPlacing": 1, "Players": [{"id": 17018032}, {"id": 17897192}, {"id": 21753359}, {"id": 13539892}]}, {"FullName": "PagMan", "FlagName": "", "Acronym": "", "SeedingResults": [], "Seed": "1", "LastYearPlacing": 1, "Players": [{"id": 11558542}, {"id": 4667123}]}, {"FullName": "pick hd2", "FlagName": "", "Acronym": "", "SeedingResults": [], "Seed": "1", "LastYearPlacing": 1, "Players": [{"id": 1314251}, {"id": 8070299}, {"id": 4437927}, {"id": 4978940}]}, {"FullName": "PiPoPiPoPaPiPoPe", "FlagName": "", "Acronym": "", "SeedingResults": [], "Seed": "1", "LastYearPlacing": 1, "Players": [{"id": 13915963}, {"id": 18683691}, {"id": 15525103}, {"id": 17832598}]}, {"FullName": "plushki", "FlagName": "", "Acronym": "", "SeedingResults": [], "Seed": "1", "LastYearPlacing": 1, "Players": [{"id": 12457381}, {"id": 15030121}, {"id": 17066686}, {"id": 9921139}]}, {"FullName": "Poland D", "FlagName": "", "Acronym": "", "SeedingResults": [], "Seed": "1", "LastYearPlacing": 1, "Players": [{"id": 10811597}, {"id": 12671619}, {"id": 11599395}, {"id": 11210823}]}, {"FullName": "puzo", "FlagName": "", "Acronym": "", "SeedingResults": [], "Seed": "1", "LastYearPlacing": 1, "Players": [{"id": 12270069}, {"id": 11137291}, {"id": 10526936}, {"id": 13245208}]}, {"FullName": "Retirement Home", "FlagName": "", "Acronym": "", "SeedingResults": [], "Seed": "1", "LastYearPlacing": 1, "Players": [{"id": 5283014}, {"id": 17706086}, {"id": 8112433}, {"id": 6843383}]}, {"FullName": "Shiba Inu", "FlagName": "", "Acronym": "", "SeedingResults": [], "Seed": "1", "LastYearPlacing": 1, "Players": [{"id": 3825470}, {"id": 6386735}, {"id": 10232179}, {"id": 5341033}]}, {"FullName": "sightreaders", "FlagName": "", "Acronym": "", "SeedingResults": [], "Seed": "1", "LastYearPlacing": 1, "Players": [{"id": 3958619}, {"id": 4860447}, {"id": 12667143}, {"id": 16018790}]}, {"FullName": "Sputnik Temple I", "FlagName": "", "Acronym": "", "SeedingResults": [], "Seed": "1", "LastYearPlacing": 1, "Players": [{"id": 15441612}, {"id": 11726139}, {"id": 14054383}, {"id": 9562353}]}, {"FullName": "Sputnik Temple II", "FlagName": "", "Acronym": "", "SeedingResults": [], "Seed": "1", "LastYearPlacing": 1, "Players": [{"id": 10212942}, {"id": 6643511}, {"id": 17795498}, {"id": 15171585}]}, {"FullName": "THE Poopers", "FlagName": "", "Acronym": "", "SeedingResults": [], "Seed": "1", "LastYearPlacing": 1, "Players": [{"id": 12115298}, {"id": 9297920}, {"id": 5177877}, {"id": 14713255}]}, {"FullName": "The stationaries", "FlagName": "", "Acronym": "", "SeedingResults": [], "Seed": "1", "LastYearPlacing": 1, "Players": [{"id": 13159510}, {"id": 13469091}, {"id": 14378601}, {"id": 13836587}]}, {"FullName": "The Texas Royal Family", "FlagName": "", "Acronym": "", "SeedingResults": [], "Seed": "1", "LastYearPlacing": 1, "Players": [{"id": 4201807}, {"id": 12058601}, {"id": 13205755}, {"id": 12537417}]}, {"FullName": "Tornadowashingbears", "FlagName": "", "Acronym": "", "SeedingResults": [], "Seed": "1", "LastYearPlacing": 1, "Players": [{"id": 3346839}, {"id": 3394763}]}, {"FullName": "torru sleep schedule", "FlagName": "", "Acronym": "", "SeedingResults": [], "Seed": "1", "LastYearPlacing": 1, "Players": [{"id": 13141032}, {"id": 19709801}, {"id": 6717559}, {"id": 18248035}]}, {"FullName": "UNIDAS PODEMOS", "FlagName": "", "Acronym": "", "SeedingResults": [], "Seed": "1", "LastYearPlacing": 1, "Players": [{"id": 18660354}, {"id": 12759554}, {"id": 16393244}]}, {"FullName": "vgfdsgdfdg", "FlagName": "", "Acronym": "", "SeedingResults": [], "Seed": "1", "LastYearPlacing": 1, "Players": [{"id": 9091312}, {"id": 7387395}, {"id": 10172273}, {"id": 12390222}]}, {"FullName": "Waldschrein Kids", "FlagName": "", "Acronym": "", "SeedingResults": [], "Seed": "1", "LastYearPlacing": 1, "Players": [{"id": 8170022}, {"id": 9086565}, {"id": 12047601}, {"id": 8246365}]}, {"FullName": "when the bnuuy", "FlagName": "", "Acronym": "", "SeedingResults": [], "Seed": "1", "LastYearPlacing": 1, "Players": [{"id": 15975275}, {"id": 1433427}, {"id": 14758501}, {"id": 9362168}]}, {"FullName": "ZAZA METHOD", "FlagName": "", "Acronym": "", "SeedingResults": [], "Seed": "1", "LastYearPlacing": 1, "Players": [{"id": 10569381}, {"id": 8511882}, {"id": 10345787}, {"id": 12274213}]}]
-,
-  "Progressions": [{"SourceID": 1, "TargetID": 13, "Losers": false}, {"SourceID": 1, "TargetID": 9, "Losers": true}, {"SourceID": 2, "TargetID": 13, "Losers": false}, {"SourceID": 2, "TargetID": 9, "Losers": true}, {"SourceID": 3, "TargetID": 14, "Losers": false}, {"SourceID": 3, "TargetID": 10, "Losers": true}, {"SourceID": 4, "TargetID": 14, "Losers": false}, {"SourceID": 4, "TargetID": 10, "Losers": true}, {"SourceID": 5, "TargetID": 15, "Losers": false}, {"SourceID": 5, "TargetID": 11, "Losers": true}, {"SourceID": 6, "TargetID": 15, "Losers": false}, {"SourceID": 6, "TargetID": 11, "Losers": true}, {"SourceID": 7, "TargetID": 16, "Losers": false}, {"SourceID": 7, "TargetID": 12, "Losers": true}, {"SourceID": 8, "TargetID": 16, "Losers": false}, {"SourceID": 8, "TargetID": 12, "Losers": true}, {"SourceID": 17, "TargetID": 21, "Losers": false}, {"SourceID": 18, "TargetID": 21, "Losers": false}, {"SourceID": 19, "TargetID": 22, "Losers": false}, {"SourceID": 20, "TargetID": 22, "Losers": false}, {"SourceID": 9, "TargetID": 17, "Losers": false}, {"SourceID": 10, "TargetID": 18, "Losers": false}, {"SourceID": 11, "TargetID": 19, "Losers": false}, {"SourceID": 12, "TargetID": 20, "Losers": false}, {"SourceID": 13, "TargetID": 23, "Losers": false}, {"SourceID": 13, "TargetID": 17, "Losers": true}, {"SourceID": 14, "TargetID": 23, "Losers": false}, {"SourceID": 14, "TargetID": 18, "Losers": true}, {"SourceID": 15, "TargetID": 24, "Losers": false}, {"SourceID": 15, "TargetID": 19, "Losers": true}, {"SourceID": 16, "TargetID": 24, "Losers": false}, {"SourceID": 16, "TargetID": 20, "Losers": true}, {"SourceID": 25, "TargetID": 27, "Losers": false}, {"SourceID": 26, "TargetID": 27, "Losers": false}, {"SourceID": 21, "TargetID": 25, "Losers": false}, {"SourceID": 22, "TargetID": 26, "Losers": false}, {"SourceID": 23, "TargetID": 28, "Losers": false}, {"SourceID": 23, "TargetID": 25, "Losers": true}, {"SourceID": 24, "TargetID": 28, "Losers": false}, {"SourceID": 24, "TargetID": 26, "Losers": true}]
-,
+  "Teams": [
+    {
+      "FullName": ":bounceh:",
+      "FlagName": "",
+      "Acronym": "",
+      "SeedingResults": [],
+      "Seed": "1",
+      "LastYearPlacing": 1,
+      "AverageRank": 3948.0,
+      "Players": [
+        {
+          "id": 6131258,
+          "Username": "-ether-",
+          "country_code": "US",
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/6131258/5424cb1b40998b7fd2aed6a26b5bbc1dacfa637cf767295b659fe736576e6db8.jpeg"
+        },
+        {
+          "id": 8543980,
+          "Username": "FluffyEcho",
+          "country_code": "CA",
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/8543980/2a058569647fb09ae5f4e7d3ab778eb35cad11495a7f4b879a64cafb91d79369.jpeg"
+        },
+        {
+          "id": 11255340,
+          "Username": "FlatPaper",
+          "country_code": "CA",
+          "Rank": 3948,
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/11255340/4c5f2512344902d5ff72a9e708461f65c7155932dc75640e5bfea6545d3e0718.png"
+        },
+        {
+          "id": 5584603,
+          "Username": "SaIad",
+          "country_code": "US",
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/5584603/76cfc20dd681785642ce90713ff5655cd227cc964258ea63667725a56f5a34c9.jpeg"
+        }
+      ]
+    },
+    {
+      "FullName": ":coldcat:",
+      "FlagName": "",
+      "Acronym": "",
+      "SeedingResults": [],
+      "Seed": "1",
+      "LastYearPlacing": 1,
+      "Players": [
+        {
+          "id": 694480,
+          "Username": "Hakumo Ai",
+          "country_code": "CN",
+          "CoverUrl": "https://lazer.ppy.sh/images/headers/profile-covers/c1.jpg"
+        },
+        {
+          "id": 5179557,
+          "Username": "Hakumo Shiro",
+          "country_code": "CN",
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/5179557/1240f69986d11d3cc337d88ea86fed12b7a81ae36540477d4f7380731e0d8bcd.jpeg"
+        },
+        {
+          "id": 10500832,
+          "Username": "[Crz]xz1z1z",
+          "country_code": "CN",
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/10500832/c6a89ea4c68e6f43c7d295663dc0d05e09c09c193b5502fdaba6e06b3720097f.jpeg"
+        },
+        {
+          "id": 4464845,
+          "Username": "Aimseky",
+          "country_code": "CN",
+          "CoverUrl": "https://lazer.ppy.sh/images/headers/profile-covers/c6.jpg"
+        }
+      ]
+    },
+    {
+      "FullName": ":fire:**T E Z I**:fire:",
+      "FlagName": "",
+      "Acronym": "",
+      "SeedingResults": [],
+      "Seed": "1",
+      "LastYearPlacing": 1,
+      "AverageRank": 1125.0,
+      "Players": [
+        {
+          "id": 4801735,
+          "Username": "Dragbit 5",
+          "country_code": "HK",
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/4801735/7093a2ed9c41d1e1262f367f5cc48973f681354676dc4eee12ca9bdb0b132d1d.jpeg"
+        },
+        {
+          "id": 12585858,
+          "Username": "INFERNO TOWER",
+          "country_code": "HK",
+          "Rank": 1125,
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/12585858/ff7dfcd3ee3597429430ba0103b8e854b59fda3bbba90fdf9bcafbdb2f7abfae.jpeg"
+        },
+        {
+          "id": 18224888,
+          "Username": "CLASH OF CLANS",
+          "country_code": "HK",
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/18224888/3fcaf9a17848c9f4ef4195cdf5fcfec61be39169691ae8234aedbce1e45432ee.jpeg"
+        },
+        {
+          "id": 17865200,
+          "Username": "-shiina-",
+          "country_code": "HK",
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/17865200/879e4102254f7ca35ddf9ea97581d3987e347de8657bccbb2489f9d0beab5dab.png"
+        }
+      ]
+    },
+    {
+      "FullName": ":MadelineSpinning:",
+      "FlagName": "",
+      "Acronym": "",
+      "SeedingResults": [],
+      "Seed": "1",
+      "LastYearPlacing": 1,
+      "AverageRank": 4585.0,
+      "Players": [
+        {
+          "id": 11129041,
+          "Username": "XiaoMyMommy",
+          "country_code": "FR",
+          "Rank": 4585,
+          "CoverUrl": "https://lazer.ppy.sh/images/headers/profile-covers/c8.jpg"
+        },
+        {
+          "id": 13935409,
+          "Username": "BioTyC",
+          "country_code": "FR",
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/13935409/24e44fd2d34c1bbf3901964d15c58ef522c3f0b2b1a08891936eb37e5e6055de.jpeg"
+        },
+        {
+          "id": 16420104,
+          "Username": "Mimil",
+          "country_code": "FR",
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/16420104/02aeadc9b97314ecdd8b1fe0996675465f4113d2fd278c8e408302d95f7b2189.png"
+        }
+      ]
+    },
+    {
+      "FullName": ":norcal:",
+      "FlagName": "",
+      "Acronym": "",
+      "SeedingResults": [],
+      "Seed": "1",
+      "LastYearPlacing": 1,
+      "AverageRank": 2997.0,
+      "Players": [
+        {
+          "id": 4529885,
+          "Username": "Kotonashi",
+          "country_code": "US",
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/4529885/513f0c6fd50b64f5d539cb1484f8b2bd3c0bd4130c8d2fcb1035031e3daac2e0.png"
+        },
+        {
+          "id": 11613306,
+          "Username": "AnnoyingManiac",
+          "country_code": "US",
+          "Rank": 2792,
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/11613306/79cb6fa323bb86cc5c43ec31018813730f062785d8d67a0714b2d561c1d951a3.jpeg"
+        },
+        {
+          "id": 4209818,
+          "Username": "Azurium",
+          "country_code": "US",
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/4209818/959c6a6b8c0a7ef007e865c7df4e63d651d50599ea44e0f18eaca86d1d25e8a0.png"
+        },
+        {
+          "id": 9526124,
+          "Username": "Haxagon",
+          "country_code": "US",
+          "Rank": 3202,
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/9526124/80c607f59d8fc28b47c558df17a4129c919f95326dd4ab2e78a90f82fd814df9.jpeg"
+        }
+      ]
+    },
+    {
+      "FullName": "Agalethiar-",
+      "FlagName": "",
+      "Acronym": "",
+      "SeedingResults": [],
+      "Seed": "1",
+      "LastYearPlacing": 1,
+      "AverageRank": 4421.5,
+      "Players": [
+        {
+          "id": 3645490,
+          "Username": "Agagak",
+          "country_code": "MY",
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/3645490/78b15866210cebfc3de4a7a92a7fceea4fb5ae7c775db0d9b5ab729e7d8f4718.jpeg"
+        },
+        {
+          "id": 13626098,
+          "Username": "Jolene",
+          "country_code": "MY",
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/13626098/3c9a202deac8b40a9b2019bc3bfb1890f69b2ea301bee19fc5e7b2471a4bea33.jpeg"
+        },
+        {
+          "id": 11918602,
+          "Username": "Blethz",
+          "country_code": "MY",
+          "Rank": 6895,
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/11918602/1da344d0ef21480e89de10f692cf2d61e4cdd74af701c4f7fad6663512d565d7.gif"
+        },
+        {
+          "id": 10474988,
+          "Username": "Mashima Himeko",
+          "country_code": "ID",
+          "Rank": 1948,
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/10474988/5f4a7ac18c7eeee0fa69fa524e4774993e23ddb0363ede7d1ebc883178b29e7d.jpeg"
+        }
+      ]
+    },
+    {
+      "FullName": "Akahito fanclub",
+      "FlagName": "",
+      "Acronym": "",
+      "SeedingResults": [],
+      "Seed": "1",
+      "LastYearPlacing": 1,
+      "AverageRank": 2276.5,
+      "Players": [
+        {
+          "id": 9448341,
+          "Username": "Akahito",
+          "country_code": "IT",
+          "Rank": 2664,
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/9448341/f442b5abb60f6e661f557b47e7ce3a2e33cbb751a1336c4446bd213f5c339e4a.jpeg"
+        },
+        {
+          "id": 13757181,
+          "Username": "_Ecly",
+          "country_code": "IT",
+          "CoverUrl": "https://lazer.ppy.sh/images/headers/profile-covers/c3.jpg"
+        },
+        {
+          "id": 947742,
+          "Username": "parlophone",
+          "country_code": "CL",
+          "CoverUrl": "https://lazer.ppy.sh/images/headers/profile-covers/c2.jpg"
+        },
+        {
+          "id": 14069730,
+          "Username": "Arisaka Mashiro",
+          "country_code": "DE",
+          "Rank": 1889,
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/14069730/22d91ec958fdf10bb5fb3c6aa730f66ef995203f67e574ee6c23b5c5f771e8e1.jpeg"
+        }
+      ]
+    },
+    {
+      "FullName": "Baksal",
+      "FlagName": "",
+      "Acronym": "",
+      "SeedingResults": [],
+      "Seed": "1",
+      "LastYearPlacing": 1,
+      "Players": [
+        {
+          "id": 114017,
+          "Username": "KRZY",
+          "country_code": "KR",
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/114017/0860a4d2bfe741d312adf47f12b08f50cd88b2c0fbab2e9a9a9711a83fa70931.png"
+        },
+        {
+          "id": 757783,
+          "Username": "Garalulu",
+          "country_code": "KR",
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/757783/f0c02639700f3f015201eeb5fc4851bd3e5f9c52ccb4f5cfaad5dcafa4fada4d.jpeg"
+        },
+        {
+          "id": 1274798,
+          "Username": "MoNaMiC",
+          "country_code": "KR",
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/1274798/4d18d08a1955e1d4e9d71668f647609a8e95c342b6b48ee6e6b1535756515fb0.png"
+        },
+        {
+          "id": 14174951,
+          "Username": "Heony",
+          "country_code": "KR",
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/14174951/8ff155a902a201bcf481a71ff3fed928ed39f44afd8d7d25e326146075d4bb1c.jpeg"
+        }
+      ]
+    },
+    {
+      "FullName": "Bald Island",
+      "FlagName": "",
+      "Acronym": "",
+      "SeedingResults": [],
+      "Seed": "1",
+      "LastYearPlacing": 1,
+      "AverageRank": 1186.5,
+      "Players": [
+        {
+          "id": 11658236,
+          "Username": "Vexion 2",
+          "country_code": "AR",
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/11658236/cf0200b0818486e5862faaec62235ffcac0c011c46dde6ade9f33ac05500e24f.jpeg"
+        },
+        {
+          "id": 10157694,
+          "Username": "-felicia",
+          "country_code": "BR",
+          "Rank": 1164,
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/10157694/c753b11e4e1f445b8b6ba6e1f3c90aa3df83bd4dbd1ab9be1dad134ba841f59b.png"
+        },
+        {
+          "id": 18207356,
+          "Username": "-lexi",
+          "country_code": "US",
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/18207356/b6b3ff41f5d5dfe363a5b220f73a5b6f314489eee9effdaf90de4a5ba0d81db8.jpeg"
+        },
+        {
+          "id": 6898948,
+          "Username": "Watr",
+          "country_code": "US",
+          "Rank": 1209,
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/6898948/abdfefc0291e5c77d44b2bc9b75e9eb34954b4c8f6c85e4177ab5455d3a87865.gif"
+        }
+      ]
+    },
+    {
+      "FullName": "Best Friends 1",
+      "FlagName": "",
+      "Acronym": "",
+      "SeedingResults": [],
+      "Seed": "1",
+      "LastYearPlacing": 1,
+      "AverageRank": 4121.0,
+      "Players": [
+        {
+          "id": 11580377,
+          "Username": "Fair Trade",
+          "country_code": "US",
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/11580377/34e0fd28728f7d9f91ae8d03040d9701597d5e3302f05588ff2929d974a72ea7.jpeg"
+        },
+        {
+          "id": 12325702,
+          "Username": "tairizu19",
+          "country_code": "PH",
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/12325702/21188f2e986efa9a2c9cdea709241fee1571bad7286c60577e7f886398b76c82.jpeg"
+        },
+        {
+          "id": 14294171,
+          "Username": "lolitskoryn",
+          "country_code": "IT",
+          "Rank": 4121,
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/14294171/92704c77766193b0e2f3ce5ec40ec6fc2ebd8fc89f20215d3221b86c99432611.jpeg"
+        },
+        {
+          "id": 14025454,
+          "Username": "St3kiii",
+          "country_code": "DE",
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/14025454/74cf0ae3fe293f00d2f2e0ce496deda85a0dfa08aeff8e39ff2b7b43848b44a7.jpeg"
+        }
+      ]
+    },
+    {
+      "FullName": "Blue it",
+      "FlagName": "",
+      "Acronym": "",
+      "SeedingResults": [],
+      "Seed": "1",
+      "LastYearPlacing": 1,
+      "AverageRank": 1700.5,
+      "Players": [
+        {
+          "id": 11959709,
+          "Username": "CallMeRed",
+          "country_code": "SA",
+          "Rank": 2197,
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/11959709/8feb402d007b7cc9b499852b81425ed30775d86491f5305243d02a76e5145ea8.jpeg"
+        },
+        {
+          "id": 22461441,
+          "Username": "3BDOOO",
+          "country_code": "SA",
+          "CoverUrl": "https://lazer.ppy.sh/images/headers/profile-covers/c6.jpg"
+        },
+        {
+          "id": 10509043,
+          "Username": "P r a h",
+          "country_code": "PE",
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/10509043/b295659e2acb5f19dfc6e2e187a971c79652048b835eb6541b09a470c0c2e464.png"
+        },
+        {
+          "id": 4604369,
+          "Username": "KC Aqua",
+          "country_code": "FR",
+          "Rank": 1204,
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/4604369/59f4be89f85fe9f1c4eb3992f7416574dea2a2fd0597ec03b10490a2b0587ca0.png"
+        }
+      ]
+    },
+    {
+      "FullName": "Bring Back 5* Pools",
+      "FlagName": "",
+      "Acronym": "",
+      "SeedingResults": [],
+      "Seed": "1",
+      "LastYearPlacing": 1,
+      "AverageRank": 2588.0,
+      "Players": [
+        {
+          "id": 9498319,
+          "Username": "Gamecube08",
+          "country_code": "AU",
+          "Rank": 3357,
+          "CoverUrl": "https://lazer.ppy.sh/images/headers/profile-covers/c7.jpg"
+        },
+        {
+          "id": 10870989,
+          "Username": "Alpama",
+          "country_code": "AU",
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/10870989/84e97c5309400d73c2800505095d165d9ea20279791cdd86c5c8fdae48f60bc7.png"
+        },
+        {
+          "id": 13344402,
+          "Username": "Radial",
+          "country_code": "AU",
+          "Rank": 1956,
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/13344402/59c8981b790a3140c20da2bb00c855c36451e1ca206e67955be6c256dd5a40b9.jpeg"
+        },
+        {
+          "id": 13228917,
+          "Username": "oslash",
+          "country_code": "AU",
+          "Rank": 2451,
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/13228917/2a94f2cd157626166c8a2a8951c3e3f6a393c87870760936d1deb59bfefc7736.png"
+        }
+      ]
+    },
+    {
+      "FullName": "Finno-Korean Hyperwar",
+      "FlagName": "",
+      "Acronym": "",
+      "SeedingResults": [],
+      "Seed": "1",
+      "LastYearPlacing": 1,
+      "AverageRank": 2657.0,
+      "Players": [
+        {
+          "id": 2935432,
+          "Username": "Aruka",
+          "country_code": "FI",
+          "Rank": 1998,
+          "CoverUrl": "https://lazer.ppy.sh/images/headers/profile-covers/c1.jpg"
+        },
+        {
+          "id": 7852852,
+          "Username": "vo_ine",
+          "country_code": "KR",
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/7852852/97367a3fe4108dc9cb30169bff4f5ead01f8c7aef5b76e3e7810939481fbd78c.jpeg"
+        },
+        {
+          "id": 12047944,
+          "Username": "yimi",
+          "country_code": "FI",
+          "Rank": 3316,
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/12047944/aae48c1f2b3d9f25ee5959764629b015fe88b660b24294959231f9823783d210.jpeg"
+        },
+        {
+          "id": 9523661,
+          "Username": "Tabletti",
+          "country_code": "FI",
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/9523661/06d20627c796cdba080cde685009c5e1e62b96e930ad1ba6e540fe80dbc2097f.gif"
+        }
+      ]
+    },
+    {
+      "FullName": "goblin.",
+      "FlagName": "",
+      "Acronym": "",
+      "SeedingResults": [],
+      "Seed": "1",
+      "LastYearPlacing": 1,
+      "AverageRank": 2291.0,
+      "Players": [
+        {
+          "id": 3786620,
+          "Username": "Pickxarro",
+          "country_code": "FI",
+          "Rank": 2291,
+          "CoverUrl": "https://lazer.ppy.sh/images/headers/profile-covers/c8.jpg"
+        },
+        {
+          "id": 15392570,
+          "Username": "Musa",
+          "country_code": "FI",
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/15392570/face15eaebebc166beb90ff03cb4e4c7efed78b1488c32fcfd01630f7fb64eca.png"
+        },
+        {
+          "id": 2073320,
+          "Username": "Tpee",
+          "country_code": "FI",
+          "CoverUrl": "https://lazer.ppy.sh/images/headers/profile-covers/c1.jpg"
+        },
+        {
+          "id": 9634978,
+          "Username": "CPU_Cartel",
+          "country_code": "FI",
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/9634978/e07d12662d9f955eec89c8fdc5d75924a204f076b3f580222ecacc5541bf522c.png"
+        }
+      ]
+    },
+    {
+      "FullName": "guh??",
+      "FlagName": "",
+      "Acronym": "",
+      "SeedingResults": [],
+      "Seed": "1",
+      "LastYearPlacing": 1,
+      "AverageRank": 2736.6666666666665,
+      "Players": [
+        {
+          "id": 10941597,
+          "Username": "Zenyr",
+          "country_code": "US",
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/10941597/bc39f153c4d1c8c27bee97987fe3ab9540f723ff649b76c48d9ac38e277aa248.jpeg"
+        },
+        {
+          "id": 9459674,
+          "Username": "Ice Shark",
+          "country_code": "RU",
+          "Rank": 5459,
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/9459674/a1dc33c061d4d77bf2a319b4b72f98923b27d4934fc3b3bfb65a8e440d57b131.jpeg"
+        },
+        {
+          "id": 12086452,
+          "Username": "Tile",
+          "country_code": "US",
+          "Rank": 1205,
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/12086452/56aa5ec2e56a7642507bb004f1bc3318c9ef61f91746ee1ee8c0163c9743941b.jpeg"
+        },
+        {
+          "id": 9507565,
+          "Username": "N1ghtbeat",
+          "country_code": "US",
+          "Rank": 1546,
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/9507565/d770647451063eb8bc0563fcbd2cb8200d0a3e837bc61769bb476ca16bfea89d.jpeg"
+        }
+      ]
+    },
+    {
+      "FullName": "headman — Today at 20:05 how bout menty fucked ur mother ",
+      "FlagName": "",
+      "Acronym": "",
+      "SeedingResults": [],
+      "Seed": "1",
+      "LastYearPlacing": 1,
+      "Players": [
+        {
+          "id": 8401905,
+          "Username": "Ramon",
+          "country_code": "DE",
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/8401905/717796aab9beabe0b797ca65067815c1894b53134cab9387709a0faf970a665c.gif"
+        },
+        {
+          "id": 3619284,
+          "Username": "Menty",
+          "country_code": "DE",
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/3619284/64fc4247858e403002eccc43ee8f53fc5ebf53c24bdc5585886ae2ca1432d8e6.jpeg"
+        },
+        {
+          "id": 10526814,
+          "Username": "Luminiscental",
+          "country_code": "GB",
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/10526814/5428c57698b0920dd5232bb32d4ea4f14c32e455d923fc4a7aca86d0b84e0cba.jpeg"
+        },
+        {
+          "id": 1,
+          "Username": "",
+          "CoverUrl": ""
+        }
+      ]
+    },
+    {
+      "FullName": "https://youtu.be/0lsDoRtFcsw",
+      "FlagName": "",
+      "Acronym": "",
+      "SeedingResults": [],
+      "Seed": "1",
+      "LastYearPlacing": 1,
+      "AverageRank": 2215.5,
+      "Players": [
+        {
+          "id": 9383377,
+          "Username": "Snowpoint",
+          "country_code": "AU",
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/9383377/aee9ddb9c6df955648d6942c930ba333a9695cf638bed2374b3956ab3da4b7a8.jpeg"
+        },
+        {
+          "id": 3222676,
+          "Username": "zzzbored",
+          "country_code": "AU",
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/3222676/fdfd8797786d5c4c4bb278953672ca082021e4fcc923742129d53b07381fccea.png"
+        },
+        {
+          "id": 10343292,
+          "Username": "Zeph2003",
+          "country_code": "MY",
+          "Rank": 3291,
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/10343292/ec36012ff78d6e4213411f5b4c78b5f7123c8fad1cafff3099981d080447626e.jpeg"
+        },
+        {
+          "id": 7390726,
+          "Username": "LaiR",
+          "country_code": "HK",
+          "Rank": 1140,
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/7390726/b83672385c4ac4187beba3d484f6909a6c4d3374422f612414d0e64123d13cfc.jpeg"
+        }
+      ]
+    },
+    {
+      "FullName": "imgur.com/a/SekYkmB",
+      "FlagName": "",
+      "Acronym": "",
+      "SeedingResults": [],
+      "Seed": "1",
+      "LastYearPlacing": 1,
+      "AverageRank": 1709.75,
+      "Players": [
+        {
+          "id": 11633961,
+          "Username": "HitomiChan_",
+          "country_code": "US",
+          "Rank": 1265,
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/11633961/0ac1360503fca177124d018f04123839a3fd99bb98447f1cc644bd21cdb701e9.gif"
+        },
+        {
+          "id": 8191845,
+          "Username": "Stage",
+          "country_code": "US",
+          "Rank": 1648,
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/8191845/9b7b4a42cc2b9907d52ea9c1436560b74d0f5da2cc5b348ddd318197110c42d8.jpeg"
+        },
+        {
+          "id": 10224047,
+          "Username": "Emerald Ages",
+          "country_code": "US",
+          "Rank": 1828,
+          "CoverUrl": "https://lazer.ppy.sh/images/headers/profile-covers/c8.jpg"
+        },
+        {
+          "id": 12476276,
+          "Username": "Pckid101",
+          "country_code": "US",
+          "Rank": 2098,
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/12476276/667c30afe3248e0fa4551f1546c21d1361c3af30bfe2262faab36bf147411fe1.jpeg"
+        }
+      ]
+    },
+    {
+      "FullName": "Jalmoranas",
+      "FlagName": "",
+      "Acronym": "",
+      "SeedingResults": [],
+      "Seed": "1",
+      "LastYearPlacing": 1,
+      "AverageRank": 1454.0,
+      "Players": [
+        {
+          "id": 10442993,
+          "Username": "Hinatsuru Ai",
+          "country_code": "PH",
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/10442993/13f35485b389e329a9754405b27b8a8b22aa186e074fe44ec7a6685707e02f86.jpeg"
+        },
+        {
+          "id": 14916935,
+          "Username": "rwnd_",
+          "country_code": "PH",
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/14916935/70ee0f8409cf71f068ea2a089093e670158c380cf22aa8b8e80f744694c095f8.png"
+        },
+        {
+          "id": 7991329,
+          "Username": "Miyazumi",
+          "country_code": "PH",
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/7991329/8b9756ce59042c23071edd2bf9c47a9919d15eaa63a458ae72cf55607d6df77a.gif"
+        },
+        {
+          "id": 2558163,
+          "Username": "-Myhra",
+          "country_code": "PH",
+          "Rank": 1454,
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/2558163/b9b5f518d02bf6b98bbd24a1e50b4d1c86039ea91284e6bc55a62ec40fde8cdd.jpeg"
+        }
+      ]
+    },
+    {
+      "FullName": "Lubię ich młodych.",
+      "FlagName": "",
+      "Acronym": "",
+      "SeedingResults": [],
+      "Seed": "1",
+      "LastYearPlacing": 1,
+      "AverageRank": 2279.0,
+      "Players": [
+        {
+          "id": 20630250,
+          "Username": "Stage my mommy",
+          "country_code": "US",
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/20630250/963faafd41f1874418bf5c2dd44a23be07a20ce198215fc7a37d6fdc4d11dc65.png"
+        },
+        {
+          "id": 3257847,
+          "Username": "MyzeJD",
+          "country_code": "FR",
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/3257847/06782a0e7808be6323c3685a54ff7fbdda10a59d08a7d484db2e1e19235bf5fa.png"
+        },
+        {
+          "id": 14169321,
+          "Username": "Epla toppur",
+          "country_code": "IS",
+          "Rank": 2441,
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/14169321/54b5e0b3288e6314bf3d68b47b6f2675676beeb1f407ab3698504143048e2851.jpeg"
+        },
+        {
+          "id": 11685498,
+          "Username": "-ktrihc",
+          "country_code": "PE",
+          "Rank": 2117,
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/11685498/6b442d06a481db12b26943eb6644a021af8a56df58b730110c016b367d341216.png"
+        }
+      ]
+    },
+    {
+      "FullName": "MOG CITY",
+      "FlagName": "",
+      "Acronym": "",
+      "SeedingResults": [],
+      "Seed": "1",
+      "LastYearPlacing": 1,
+      "AverageRank": 1861.0,
+      "Players": [
+        {
+          "id": 13925698,
+          "Username": "Nijakii",
+          "country_code": "IT",
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/13925698/acf13d68896afe66f4a11c91b1d6825041278290852ebc47d231c75a158afa84.png"
+        },
+        {
+          "id": 11371245,
+          "Username": "aahoff",
+          "country_code": "DE",
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/11371245/d0d338d4ec6ec655e8746d4c20aa6c9595d4c78bec3972b7abc91937a8779cd9.jpeg"
+        },
+        {
+          "id": 8150535,
+          "Username": "Fejlan",
+          "country_code": "SE",
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/8150535/0182de14c7d3f109efd38b18c573a1ade18303997642b18b0471c5dd6c0423ec.jpeg"
+        },
+        {
+          "id": 14806365,
+          "Username": "chests",
+          "country_code": "TH",
+          "Rank": 1861,
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/14806365/84cac0f696589721b8106bf3bac7a69ab013a8ee67f3daa392539bc2eead7254.jpeg"
+        }
+      ]
+    },
+    {
+      "FullName": "no idea ;3",
+      "FlagName": "",
+      "Acronym": "",
+      "SeedingResults": [],
+      "Seed": "1",
+      "LastYearPlacing": 1,
+      "AverageRank": 1610.5,
+      "Players": [
+        {
+          "id": 16391241,
+          "Username": "RyzenPP",
+          "country_code": "MY",
+          "Rank": 1586,
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/16391241/124810d867e26befa060674028f06c33a6f55d65bd9962b9cba0ade0f95ece00.jpeg"
+        },
+        {
+          "id": 9317938,
+          "Username": "_Arigato",
+          "country_code": "TH",
+          "Rank": 1635,
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/9317938/2a408421f497a970f3165d5cb8636419e3d6d015b1729da4bb012b4400f430ac.jpeg"
+        },
+        {
+          "id": 17663666,
+          "Username": "flyond",
+          "country_code": "HK",
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/17663666/e5270b78b44c726498ec0ae374457af67f96550b77982eec745b474e515ff4b5.jpeg"
+        },
+        {
+          "id": 18296925,
+          "Username": "RemIscute07",
+          "country_code": "HK",
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/18296925/b2d94e4447bafba32506ace1a264140a2f1dfa9c00819b0c8a546ad36109ee78.jpeg"
+        }
+      ]
+    },
+    {
+      "FullName": "Operation give Musket a team",
+      "FlagName": "",
+      "Acronym": "",
+      "SeedingResults": [],
+      "Seed": "1",
+      "LastYearPlacing": 1,
+      "AverageRank": 2856.3333333333335,
+      "Players": [
+        {
+          "id": 7023000,
+          "Username": "fIag_kr",
+          "country_code": "US",
+          "Rank": 3189,
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/7023000/f6f3764aa4d83eb504ceae51fe8f0ba39c85287ce9d0a6961832b59a08dc7b0d.jpeg"
+        },
+        {
+          "id": 12090610,
+          "Username": "HuTaoMyMommy",
+          "country_code": "DE",
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/12090610/d2b4ab1dbb21bb5b1a1177db8376bfbc1f9013055e62d9400a115ed737ebe369.jpeg"
+        },
+        {
+          "id": 6124459,
+          "Username": "Musket",
+          "country_code": "US",
+          "Rank": 2128,
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/6124459/dc65a25fee005394c9340d6a979dde8360572194f186140469472ec5c4c51096.jpeg"
+        },
+        {
+          "id": 3149395,
+          "Username": "richp2k",
+          "country_code": "US",
+          "Rank": 3252,
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/3149395/1114654ce91c5feef7ab7afdd13fbeaebb483098db8be864e0187130ec1c52df.gif"
+        }
+      ]
+    },
+    {
+      "FullName": "plushki",
+      "FlagName": "",
+      "Acronym": "",
+      "SeedingResults": [],
+      "Seed": "1",
+      "LastYearPlacing": 1,
+      "AverageRank": 2737.6666666666665,
+      "Players": [
+        {
+          "id": 12457381,
+          "Username": "XopK",
+          "country_code": "RU",
+          "Rank": 2115,
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/12457381/8dca46b1eb83132024c67fce2bd303b4558b23bd153dd1973e57efd1f739cb30.jpeg"
+        },
+        {
+          "id": 15030121,
+          "Username": "L1ghtowo",
+          "country_code": "RU",
+          "Rank": 3468,
+          "CoverUrl": "https://lazer.ppy.sh/images/headers/profile-covers/c6.jpg"
+        },
+        {
+          "id": 17066686,
+          "Username": "Schastye",
+          "country_code": "KZ",
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/17066686/234d998a7b969012221c7de3e03e97c3f5deeee6ba3baa03f561eb785f5de674.jpeg"
+        },
+        {
+          "id": 9921139,
+          "Username": "Ternafis",
+          "country_code": "KZ",
+          "Rank": 2630,
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/9921139/ce35b609689d00ec1d55f69929775f2961de46034de15a82ee2c47756c6ce2c9.jpeg"
+        }
+      ]
+    },
+    {
+      "FullName": "Retirement Home",
+      "FlagName": "",
+      "Acronym": "",
+      "SeedingResults": [],
+      "Seed": "1",
+      "LastYearPlacing": 1,
+      "Players": [
+        {
+          "id": 5283014,
+          "Username": "cmayN",
+          "country_code": "US",
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/5283014/37882af8be2548cc9c611ca962ca7ccb375f662292e7e12f3ef9188d87e713db.png"
+        },
+        {
+          "id": 17706086,
+          "Username": "reshamen",
+          "country_code": "GB",
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/17706086/22b72795bec7fcad5039c7c3f01c5b4553fdd4eea62b4d52b4e908ccb1ee6ed6.png"
+        },
+        {
+          "id": 8112433,
+          "Username": "sleeping_24-7",
+          "country_code": "US",
+          "CoverUrl": "https://lazer.ppy.sh/images/headers/profile-covers/c7.jpg"
+        },
+        {
+          "id": 6843383,
+          "Username": "YoshiLover456",
+          "country_code": "US",
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/6843383/0fcefc0514fab187511cfcf16d478745f98196245cc5953f2e3df98ca6bb607e.jpeg"
+        }
+      ]
+    },
+    {
+      "FullName": "sightreaders",
+      "FlagName": "",
+      "Acronym": "",
+      "SeedingResults": [],
+      "Seed": "1",
+      "LastYearPlacing": 1,
+      "AverageRank": 1547.25,
+      "Players": [
+        {
+          "id": 3958619,
+          "Username": "D I O",
+          "country_code": "US",
+          "Rank": 1626,
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/3958619/5a70050af308a8237dd83b54cbed32f659e698f637fcef95fc75d1ef8df0f53c.jpeg"
+        },
+        {
+          "id": 4860447,
+          "Username": "N o o b",
+          "country_code": "US",
+          "Rank": 2412,
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/4860447/7c65bab0e579fe1b5e7ba2c9632f6d1d9099b132ff3e92846a6b047a715296e2.jpeg"
+        },
+        {
+          "id": 12667143,
+          "Username": "Rykic",
+          "country_code": "US",
+          "Rank": 643,
+          "CoverUrl": "https://lazer.ppy.sh/images/headers/profile-covers/c1.jpg"
+        },
+        {
+          "id": 16018790,
+          "Username": "taronado",
+          "country_code": "US",
+          "Rank": 1508,
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/16018790/dc493ad6e58418b219ccdb131d65689589a01a035e53f5bc41c7ad16886cf121.png"
+        }
+      ]
+    },
+    {
+      "FullName": "THE Poopers",
+      "FlagName": "",
+      "Acronym": "",
+      "SeedingResults": [],
+      "Seed": "1",
+      "LastYearPlacing": 1,
+      "AverageRank": 3275.5,
+      "Players": [
+        {
+          "id": 12115298,
+          "Username": "shigaytora",
+          "country_code": "US",
+          "Rank": 2350,
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/12115298/234b853a1fa686e233d66c9a055984bd53467f06b4e72c160a036a5cd0164d04.jpeg"
+        },
+        {
+          "id": 9297920,
+          "Username": "Shoultzzz",
+          "country_code": "MX",
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/9297920/61f630a3cdb9b373be78ec89c209b4c3517649cd01a1d96bd9338550361643c4.png"
+        },
+        {
+          "id": 5177877,
+          "Username": "Cossco",
+          "country_code": "US",
+          "Rank": 4201,
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/5177877/db647fecaa13633332fd6e132f5b181d5b6654025f6fb5a3257a5095d898ab34.png"
+        },
+        {
+          "id": 14713255,
+          "Username": "oei",
+          "country_code": "US",
+          "CoverUrl": "https://lazer.ppy.sh/images/headers/profile-covers/c8.jpg"
+        }
+      ]
+    },
+    {
+      "FullName": "The Texas Royal Family",
+      "FlagName": "",
+      "Acronym": "",
+      "SeedingResults": [],
+      "Seed": "1",
+      "LastYearPlacing": 1,
+      "AverageRank": 2510.0,
+      "Players": [
+        {
+          "id": 4201807,
+          "Username": "Speed of Snail",
+          "country_code": "CA",
+          "Rank": 3559,
+          "CoverUrl": "https://lazer.ppy.sh/images/headers/profile-covers/c2.jpg"
+        },
+        {
+          "id": 12058601,
+          "Username": "Squinkiezi",
+          "country_code": "CA",
+          "Rank": 2584,
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/12058601/9ec549a956e470e9fc160d80c45b36840f1e310cd28479df0e81c1b66e4211ce.png"
+        },
+        {
+          "id": 13205755,
+          "Username": "Potato9756",
+          "country_code": "CA",
+          "Rank": 1387,
+          "CoverUrl": "https://lazer.ppy.sh/images/headers/profile-covers/c4.jpg"
+        },
+        {
+          "id": 12537417,
+          "Username": "Hydrole",
+          "country_code": "US",
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/12537417/1160ed4992181f8384c8614a7ed0f2ab50f38cec7f1840aea8fb50ac8d7b0329.png"
+        }
+      ]
+    },
+    {
+      "FullName": "torru sleep schedule",
+      "FlagName": "",
+      "Acronym": "",
+      "SeedingResults": [],
+      "Seed": "1",
+      "LastYearPlacing": 1,
+      "AverageRank": 2168.6666666666665,
+      "Players": [
+        {
+          "id": 13141032,
+          "Username": "Chipperonio",
+          "country_code": "VN",
+          "Rank": 2511,
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/13141032/0c31354793f001c338038424831034c7123c9406accb6c58b832bf9fc56b6f90.png"
+        },
+        {
+          "id": 19709801,
+          "Username": "scuri",
+          "country_code": "PH",
+          "Rank": 1082,
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/19709801/396958a523f435e8e099e1275140f4309afce1b616721e2105ccf210bbf760d0.png"
+        },
+        {
+          "id": 6717559,
+          "Username": "ruruichi",
+          "country_code": "ID",
+          "CoverUrl": "https://lazer.ppy.sh/images/headers/profile-covers/c7.jpg"
+        },
+        {
+          "id": 18248035,
+          "Username": "Torru",
+          "country_code": "US",
+          "Rank": 2913,
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/18248035/ab360dd20ddd0e1f9bdbf2e03393d421aac7bca52229c18d91452d7f136dacf6.png"
+        }
+      ]
+    },
+    {
+      "FullName": "Waldschrein Kids",
+      "FlagName": "",
+      "Acronym": "",
+      "SeedingResults": [],
+      "Seed": "1",
+      "LastYearPlacing": 1,
+      "AverageRank": 1387.0,
+      "Players": [
+        {
+          "id": 8170022,
+          "Username": "Tutka",
+          "country_code": "PL",
+          "Rank": 1496,
+          "CoverUrl": "https://lazer.ppy.sh/images/headers/profile-covers/c7.jpg"
+        },
+        {
+          "id": 9086565,
+          "Username": "Kosiarek",
+          "country_code": "PL",
+          "Rank": 1278,
+          "CoverUrl": "https://lazer.ppy.sh/images/headers/profile-covers/c6.jpg"
+        },
+        {
+          "id": 12047601,
+          "Username": "xMatrix382",
+          "country_code": "PL",
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/12047601/3eaa758890337ffac2cdd3b46bbf9bf4ee70ad57d7b0afd35c515dba9c0b213a.jpeg"
+        },
+        {
+          "id": 8246365,
+          "Username": "SpellZZZ",
+          "country_code": "PL",
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/8246365/ce77851a62faa613fbf8c78aa1a9f5917845bc7f8c6de2124c8f31e5f5f0524a.jpeg"
+        }
+      ]
+    },
+    {
+      "FullName": "when the bnuuy",
+      "FlagName": "",
+      "Acronym": "",
+      "SeedingResults": [],
+      "Seed": "1",
+      "LastYearPlacing": 1,
+      "AverageRank": 6908.0,
+      "Players": [
+        {
+          "id": 15975275,
+          "Username": "NEW GOD",
+          "country_code": "KR",
+          "CoverUrl": "https://lazer.ppy.sh/images/headers/profile-covers/c4.jpg"
+        },
+        {
+          "id": 1433427,
+          "Username": "myhan3",
+          "country_code": "KR",
+          "CoverUrl": "https://lazer.ppy.sh/images/headers/profile-covers/c4.jpg"
+        },
+        {
+          "id": 14758501,
+          "Username": "jellium",
+          "country_code": "US",
+          "Rank": 6908,
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/14758501/3c0ea14cffb3918d9e97f9b746d38e18843b6b4649614bbab2d81a08eedec714.jpeg"
+        },
+        {
+          "id": 9362168,
+          "Username": "UC3",
+          "country_code": "NL",
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/9362168/39de191c2737f08cf8862218d3d0f7bb9456e8f89beca20d6ccf70db2a0e0443.png"
+        }
+      ]
+    },
+    {
+      "FullName": "ZAZA METHOD",
+      "FlagName": "",
+      "Acronym": "",
+      "SeedingResults": [],
+      "Seed": "1",
+      "LastYearPlacing": 1,
+      "AverageRank": 2167.0,
+      "Players": [
+        {
+          "id": 10569381,
+          "Username": "KeitoChan",
+          "country_code": "RO",
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/10569381/add1850ac6b3d238d8c69cb3cfa04e19f71c5cf8dcc76999a486216fb68f1cea.jpeg"
+        },
+        {
+          "id": 8511882,
+          "Username": "_Silvian",
+          "country_code": "RO",
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/8511882/4a511701212d87c415eee7b102ceb6237acf5d13761f5507b5de4ba1697a6b1a.jpeg"
+        },
+        {
+          "id": 10345787,
+          "Username": "Ficus Akishida",
+          "country_code": "RO",
+          "Rank": 2167,
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/10345787/45dd9416988a40119eb16591cd5258e535ef7d4f4e5f858a7478abe2dade490b.jpeg"
+        },
+        {
+          "id": 12274213,
+          "Username": "IIANTONIOII",
+          "country_code": "RO",
+          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/12274213/a940e377dbc80d290746f035559a4ed486b0397daf2bf56114b610297e7942ff.png"
+        }
+      ]
+    }
+  ],
+  "Progressions": [
+    {
+      "SourceID": 1,
+      "TargetID": 2
+    },
+    {
+      "SourceID": 3,
+      "TargetID": 2
+    },
+    {
+      "SourceID": 5,
+      "TargetID": 6
+    },
+    {
+      "SourceID": 8,
+      "TargetID": 6
+    },
+    {
+      "SourceID": 9,
+      "TargetID": 10
+    },
+    {
+      "SourceID": 11,
+      "TargetID": 10
+    },
+    {
+      "SourceID": 13,
+      "TargetID": 14
+    },
+    {
+      "SourceID": 15,
+      "TargetID": 14
+    },
+    {
+      "SourceID": 2,
+      "TargetID": 4
+    },
+    {
+      "SourceID": 6,
+      "TargetID": 4
+    },
+    {
+      "SourceID": 10,
+      "TargetID": 12
+    },
+    {
+      "SourceID": 14,
+      "TargetID": 12
+    },
+    {
+      "SourceID": 17,
+      "TargetID": 19
+    },
+    {
+      "SourceID": 22,
+      "TargetID": 19
+    },
+    {
+      "SourceID": 25,
+      "TargetID": 27
+    },
+    {
+      "SourceID": 30,
+      "TargetID": 27
+    },
+    {
+      "SourceID": 19,
+      "TargetID": 20
+    },
+    {
+      "SourceID": 27,
+      "TargetID": 28
+    },
+    {
+      "SourceID": 4,
+      "TargetID": 7
+    },
+    {
+      "SourceID": 12,
+      "TargetID": 7
+    },
+    {
+      "SourceID": 20,
+      "TargetID": 23
+    },
+    {
+      "SourceID": 28,
+      "TargetID": 23
+    },
+    {
+      "SourceID": 16,
+      "TargetID": 18
+    },
+    {
+      "SourceID": 21,
+      "TargetID": 18
+    },
+    {
+      "SourceID": 24,
+      "TargetID": 26
+    },
+    {
+      "SourceID": 29,
+      "TargetID": 26
+    },
+    {
+      "SourceID": 31,
+      "TargetID": 32
+    },
+    {
+      "SourceID": 33,
+      "TargetID": 32
+    },
+    {
+      "SourceID": 34,
+      "TargetID": 35
+    },
+    {
+      "SourceID": 36,
+      "TargetID": 35
+    },
+    {
+      "SourceID": 18,
+      "TargetID": 17
+    },
+    {
+      "SourceID": 26,
+      "TargetID": 22
+    },
+    {
+      "SourceID": 32,
+      "TargetID": 25
+    },
+    {
+      "SourceID": 35,
+      "TargetID": 30
+    },
+    {
+      "SourceID": 2,
+      "TargetID": 17,
+      "Losers": true
+    },
+    {
+      "SourceID": 6,
+      "TargetID": 22,
+      "Losers": true
+    },
+    {
+      "SourceID": 10,
+      "TargetID": 25,
+      "Losers": true
+    },
+    {
+      "SourceID": 14,
+      "TargetID": 30,
+      "Losers": true
+    },
+    {
+      "SourceID": 4,
+      "TargetID": 20,
+      "Losers": true
+    },
+    {
+      "SourceID": 12,
+      "TargetID": 28,
+      "Losers": true
+    }
+  ],
   "ChromaKeyWidth": 1366,
   "PlayersPerTeam": 4,
   "AutoProgressScreens": true
