@@ -592,7 +592,8 @@
       "Acronyms": []
     }
   ],
-  "Rounds": [],
+  "Rounds": [{"Name": "Qualifiers", "Description": "", "BestOf": 9, "Beatmaps": [{"ID": 2284524, "Mods": "NM"}, {"ID": 3205535, "Mods": "NM"}, {"ID": 3714678, "Mods": "NM"}, {"ID": 3061893, "Mods": "NM"}, {"ID": 2665294, "Mods": "HD"}, {"ID": 3093649, "Mods": "HD"}, {"ID": 2323381, "Mods": "HR"}, {"ID": 3536176, "Mods": "HR"}, {"ID": 3425294, "Mods": "DT"}, {"ID": 3167236, "Mods": "DT"}]}, {"Name": "Round of 32", "Description": "", "BestOf": 9, "Beatmaps": [{"ID": 2589321, "Mods": "NM"}, {"ID": 3892045, "Mods": "NM"}, {"ID": 3107394, "Mods": "NM"}, {"ID": 1590460, "Mods": "NM"}, {"ID": 1481797, "Mods": "HD"}, {"ID": 2371574, "Mods": "HD"}, {"ID": 3810082, "Mods": "HR"}, {"ID": 3021082, "Mods": "HR"}, {"ID": 1548159, "Mods": "DT"}, {"ID": 3796883, "Mods": "DT"}, {"ID": 3701686, "Mods": "FM"}, {"ID": 3204488, "Mods": "FM"}, {"ID": 3158333, "Mods": "TB"}]}, {"Name": "Round of 16", "Description": "", "BestOf": 9, "Beatmaps": [{"ID": 3167229, "Mods": "NM"}, {"ID": 2810175, "Mods": "NM"}, {"ID": 3562538, "Mods": "NM"}, {"ID": 4014152, "Mods": "NM"}, {"ID": 3155328, "Mods": "NM"}, {"ID": 3955723, "Mods": "HD"}, {"ID": 3350321, "Mods": "HD"}, {"ID": 3499884, "Mods": "HD"}, {"ID": 3983491, "Mods": "HR"}, {"ID": 3544716, "Mods": "HR"}, {"ID": 1649482, "Mods": "HR"}, {"ID": 3316275, "Mods": "DT"}, {"ID": 3107389, "Mods": "DT"}, {"ID": 3524604, "Mods": "DT"}, {"ID": 3449357, "Mods": "FM"}, {"ID": 3859195, "Mods": "FM"}, {"ID": 300689, "Mods": "TB"}]}]
+,
   "Teams": [
     {
       "FullName": ":bounceh:",
