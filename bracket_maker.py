@@ -495,23 +495,21 @@ def create_rounds():
     rounds = list()
     current_round_name = ""
     round_entry = None
-    with open("./Suki's Osu! Tournament Mainsheet - Mappools.csv", "r") as infile:
+    with open("./USA States Cup 2023 (USC) - POOLS.csv", "r") as infile:
         csv_reader = csv.reader(infile)
         round_name = None
         for row in csv_reader:
-            if len(row[1]) > 3 and len(row[2]) == 0:
-                # probably a round name
-                round_name = row[1]
-                continue
-            if len(row[1]) == 0 or len(row[2]) > 0:
+            print(row)
+            if len(row[1].strip()) > 0:
+                round_name = row[1].strip()
+
+            if round_name is None:
                 continue
 
-            try:
-                map_id = int(row[7])
-                pick_name = row[1]
-                # print(round_name, pick_name, map_id)
-            except ValueError:
+            if len(row[4]) == 0:  # song artist - map name [diff name]
                 continue
+
+            map_id = row[-3]
 
             if current_round_name != round_name:
                 round_entry = {
@@ -524,7 +522,7 @@ def create_rounds():
 
                 if round_entry is not None:
                     rounds.append(round_entry)
-            round_entry["Beatmaps"].append({"ID": map_id, "Mods": pick_name.rstrip("0123456789")})
+            round_entry["Beatmaps"].append({"ID": map_id, "Mods": row[2].rstrip("0123456789")})
 
     print(json.dumps(rounds))
 
@@ -534,5 +532,5 @@ if __name__ == "__main__":
     # print_bracket(16)
     # todo: size 32 is not doing stage match count reduction correctly
 
-    # create_rounds()
-    main()
+    create_rounds()
+    # main()
