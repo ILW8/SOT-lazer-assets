@@ -499,7 +499,6 @@ def create_rounds():
         csv_reader = csv.reader(infile)
         round_name = None
         for row in csv_reader:
-            print(row)
             if len(row[1].strip()) > 0:
                 round_name = row[1].strip()
 
@@ -517,6 +516,7 @@ def create_rounds():
                     "Description": "",
                     "BestOf":      9,
                     "Beatmaps": [],
+                    "StartDate": "2027-07-27T17:27:27.272727+00:00"
                 }
                 current_round_name = round_name
 
