@@ -62,10 +62,6 @@ class Teams:
         pass
 
 
-def build_bracket(teams: Teams):
-    pass
-
-
 def print_teams_json(teams: Teams):
     template = {
         "FullName":        "a",
@@ -85,6 +81,7 @@ def print_teams_json(teams: Teams):
         team_json = template.copy()
         team_json["FullName"] = team.team_name
         team_json["Players"] = [{"id": tm.user_id} for tm in team.team_members]
+        team_json["Acronym"] = team.team_acronym if team.team_acronym is not None else ""
         output_list.append(team_json)
     print(json.dumps(output_list))
 
@@ -205,6 +202,71 @@ PROGRESSION_TEMPLATE = {
     ],
 }
 
+
+US_STATE_TO_ABBREV = {
+    "Alabama": "AL",
+    "Alaska": "AK",
+    "Arizona": "AZ",
+    "Arkansas": "AR",
+    "California": "CA",
+    "North California": "NCA",
+    "South California": "SCA",
+    "Colorado": "CO",
+    "Connecticut": "CT",
+    "Delaware": "DE",
+    "Florida": "FL",
+    "Georgia": "GA",
+    "Hawaii": "HI",
+    "Idaho": "ID",
+    "Illinois": "IL",
+    "Indiana": "IN",
+    "Iowa": "IA",
+    "Kansas": "KS",
+    "Kanssouri": "KSMO",
+    "Kentucky": "KY",
+    "Louisiana": "LA",
+    "Maine": "ME",
+    "Maryland": "MD",
+    "Massachusetts": "MA",
+    "Michigan": "MI",
+    "Minnesota": "MN",
+    "Mississippi": "MS",
+    "Missouri": "MO",
+    "Montana": "MT",
+    "Nebraska": "NE",
+    "Nevada": "NV",
+    "New Hampshire": "NH",
+    "New Jersey": "NJ",
+    "New Mexico": "NM",
+    "New York": "NY",
+    "North Carolina": "NC",
+    "North Dakota": "ND",
+    "Ohio": "OH",
+    "Oklahoma": "OK",
+    "Oregon": "OR",
+    "Pennsylvania": "PA",
+    "Rhode Island": "RI",
+    "South Carolina": "SC",
+    "Carolina": "N/SC",
+    "South Dakota": "SD",
+    "Tennessee": "TN",
+    "Texas": "TX",
+    "Utah": "UT",
+    "Vermont": "VT",
+    "Virginia": "VA",
+    "Washington": "WA",
+    "West Virginia": "WV",
+    "Wisconsin": "WI",
+    "Wyoming": "WY",
+    "District of Columbia": "DC",
+    "American Samoa": "AS",
+    "Guam": "GU",
+    "Northern Mariana Islands": "MP",
+    "Puerto Rico": "PR",
+    "United States Minor Outlying Islands": "UM",
+    "U.S. Virgin Islands": "VI",
+    "Stateless": "N/A",
+}
 
 def print_bracket(max_round_of: int):
     if (max_round_of & (max_round_of - 1) != 0) and max_round_of != 0 or max_round_of <= 0:
@@ -334,28 +396,36 @@ def main():
     # parse team list
     data = defaultdict(lambda: defaultdict(list))  # key: team name, value: team data
 
-    with open("./SOT Ref sheet - TeamsReal.csv", "r") as infile, \
-         open("./SOT Ref sheet - Seedings.csv", "r") as quals_result_in:
-        csv_reader = csv.reader(quals_result_in)
-        team_names = set()
-        for row in csv_reader:
-            team_names.add(row[1])
-        csv_reader = csv.reader(infile)
-        for row in csv_reader:
-            try:
-                user_id = int(row[0])
-                user_name = row[1]
-                team_name = row[3]
-                if team_name in team_names:
-                    user = User(user_name, user_id)
-                    data[team_name]["user_name"].append(user)
-            except ValueError:
-                pass  # probably table header
-    # pprint(data)
+    with open("player_to_id_mappings.json", "r") as infile:
+        player_mappings = json.load(infile)
 
-    teams = Teams()
-    for team_name, team_data in data.items():
-        teams.add_team(Team(team_name, team_data["user_name"]))
+    with open("./USA States Cup 2023 (USC) - TEAMS.csv", "r") as infile:
+        teams = Teams()
+
+        csv_reader = csv.reader(infile)
+        team_name = None
+        for row_index, row in enumerate(csv_reader):
+            if row[1].isdecimal():
+                team_name = row[3]
+                team_members = []
+                for col in row[4:]:
+                    if len(col.strip()) > 0:
+                        if col.strip() == "#846,553,767,646,068":
+                            col = "846553767646068"
+                        team_members.append(User(col.strip(), player_mappings[col.strip()]))
+                teams.add_team(Team(team_name=team_name,
+                                    team_members=team_members,
+                                    team_acronym=US_STATE_TO_ABBREV[team_name]))
+
+            # print(team_name, row)
+
+            if team_name is None:
+                continue
+
+    # for team_name, team_data in data.items():
+    #     teams.add_team(Team(team_name=team_name,
+    #                         team_members=team_data["user_name"],
+    #                         team_acronym=US_STATE_TO_ABBREV[team_name]))
     # teams.populate_team_acronyms()
 
     # print(teams)
@@ -464,4 +534,5 @@ if __name__ == "__main__":
     # print_bracket(16)
     # todo: size 32 is not doing stage match count reduction correctly
 
-    create_rounds()
+    # create_rounds()
+    main()
