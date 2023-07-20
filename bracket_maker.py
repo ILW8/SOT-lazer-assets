@@ -17,13 +17,14 @@ class User:
 
 
 class Team:
-    def __init__(self, team_name: str, team_members: list, team_acronym=None):
+    def __init__(self, team_name: str, team_members: list, team_acronym=None, seed=-1):
         self.team_name: str = team_name
         self.team_members: list[User] = team_members
         self.team_acronym = team_acronym  # will normalize `None`s later
+        self.seed = seed
 
     def __str__(self):
-        return f"{self.team_name} ({self.team_acronym}) [{', '.join(str(tm) for tm in self.team_members)}]"
+        return f"{self.team_name} ({self.team_acronym}) #{self.seed} [{', '.join(str(tm) for tm in self.team_members)}]"
 
 
 class Teams:
@@ -82,6 +83,7 @@ def print_teams_json(teams: Teams):
         team_json["FullName"] = team.team_name
         team_json["Players"] = [{"id": tm.user_id} for tm in team.team_members]
         team_json["Acronym"] = team.team_acronym if team.team_acronym is not None else ""
+        team_json["Seed"] = team.seed
         output_list.append(team_json)
     print(json.dumps(output_list))
 
@@ -406,6 +408,7 @@ def main():
         team_name = None
         for row_index, row in enumerate(csv_reader):
             if row[1].isdecimal():
+                seed = int(row[1])
                 team_name = row[3]
                 team_members = []
                 for col in row[4:]:
@@ -415,7 +418,8 @@ def main():
                         team_members.append(User(col.strip(), player_mappings[col.strip()]))
                 teams.add_team(Team(team_name=team_name,
                                     team_members=team_members,
-                                    team_acronym=US_STATE_TO_ABBREV[team_name]))
+                                    team_acronym=US_STATE_TO_ABBREV[team_name],
+                                    seed=seed))
 
             # print(team_name, row)
 
@@ -532,5 +536,5 @@ if __name__ == "__main__":
     # print_bracket(16)
     # todo: size 32 is not doing stage match count reduction correctly
 
-    create_rounds()
-    # main()
+    # create_rounds()
+    main()
